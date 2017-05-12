@@ -1,0 +1,1278 @@
+fileFormatVersion: 2
+guid: 4248d91cc1c07c6419043a6dea322471
+timeCreated: 1489051435
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BBB_Halilintar_Final:back_c
+    100002: BBB_Halilintar_Final:basic_G
+    100004: BBB_Halilintar_Final:body
+    100006: BBB_Halilintar_Final:body_G
+    100008: BBB_Halilintar_Final:cap
+    100010: BBB_Halilintar_Final:cap_earth
+    100012: BBB_Halilintar_Final:cap_teeth1
+    100014: BBB_Halilintar_Final:cap_teeth2
+    100016: BBB_Halilintar_Final:chest_
+    100018: BBB_Halilintar_Final:cluster3Handle
+    100020: BBB_Halilintar_Final:core
+    100022: BBB_Halilintar_Final:dontouch_G
+    100024: BBB_Halilintar_Final:earth_set
+    100026: BBB_Halilintar_Final:earthShirt
+    100028: BBB_Halilintar_Final:eyes_G
+    100030: BBB_Halilintar_Final:geo_G
+    100032: BBB_Halilintar_Final:hair
+    100034: BBB_Halilintar_Final:hair_G
+    100036: BBB_Halilintar_Final:halilintar_jacket
+    100038: BBB_Halilintar_Final:head3
+    100040: BBB_Halilintar_Final:head_G
+    100042: BBB_Halilintar_Final:ikHandle1
+    100044: BBB_Halilintar_Final:ikHandle2
+    100046: BBB_Halilintar_Final:ikHandle3
+    100048: BBB_Halilintar_Final:ikHandle4
+    100050: BBB_Halilintar_Final:ikHandle5
+    100052: BBB_Halilintar_Final:jacket_earth_G
+    100054: BBB_Halilintar_Final:jaw
+    100056: BBB_Halilintar_Final:joint5
+    100058: BBB_Halilintar_Final:L_eye
+    100060: BBB_Halilintar_Final:L_eye_G
+    100062: BBB_Halilintar_Final:L_hand
+    100064: BBB_Halilintar_Final:L_hand_1
+    100066: BBB_Halilintar_Final:L_hand_2
+    100068: BBB_Halilintar_Final:L_hand_3
+    100070: BBB_Halilintar_Final:L_hand_4
+    100072: BBB_Halilintar_Final:L_iris
+    100074: BBB_Halilintar_Final:L_leg_1
+    100076: BBB_Halilintar_Final:L_leg_2
+    100078: BBB_Halilintar_Final:L_leg_3
+    100080: BBB_Halilintar_Final:L_leg_4
+    100082: BBB_Halilintar_Final:L_leg_mesh
+    100084: BBB_Halilintar_Final:L_leg_mesh1
+    100086: BBB_Halilintar_Final:L_shoe
+    100088: BBB_Halilintar_Final:L_zip
+    100090: BBB_Halilintar_Final:L_zip1
+    100092: BBB_Halilintar_Final:neck
+    100094: BBB_Halilintar_Final:pants
+    100096: BBB_Halilintar_Final:pCube10
+    100098: BBB_Halilintar_Final:pCube11
+    100100: BBB_Halilintar_Final:pCube12
+    100102: BBB_Halilintar_Final:pCube13
+    100104: BBB_Halilintar_Final:pCube23
+    100106: BBB_Halilintar_Final:pCube24
+    100108: BBB_Halilintar_Final:pCube25
+    100110: BBB_Halilintar_Final:pCube26
+    100112: BBB_Halilintar_Final:pCube27
+    100114: BBB_Halilintar_Final:pCube28
+    100116: BBB_Halilintar_Final:pCube29
+    100118: BBB_Halilintar_Final:pCube33
+    100120: BBB_Halilintar_Final:pCube6
+    100122: BBB_Halilintar_Final:pCube7
+    100124: BBB_Halilintar_Final:pCube8
+    100126: BBB_Halilintar_Final:pCube9
+    100128: BBB_Halilintar_Final:pCylinder2
+    100130: BBB_Halilintar_Final:pCylinder3
+    100132: BBB_Halilintar_Final:polySurface1
+    100134: BBB_Halilintar_Final:polySurface10
+    100136: BBB_Halilintar_Final:polySurface29
+    100138: BBB_Halilintar_Final:polySurface3
+    100140: BBB_Halilintar_Final:polySurface4
+    100142: BBB_Halilintar_Final:pPipe6
+    100144: BBB_Halilintar_Final:pPipe7
+    100146: BBB_Halilintar_Final:pPipe8
+    100148: BBB_Halilintar_Final:R_eye
+    100150: BBB_Halilintar_Final:R_eye_G
+    100152: BBB_Halilintar_Final:R_hand
+    100154: BBB_Halilintar_Final:R_hand_1
+    100156: BBB_Halilintar_Final:R_hand_2
+    100158: BBB_Halilintar_Final:R_hand_3
+    100160: BBB_Halilintar_Final:R_hand_4
+    100162: BBB_Halilintar_Final:r_iris
+    100164: BBB_Halilintar_Final:R_leg_1
+    100166: BBB_Halilintar_Final:R_leg_2
+    100168: BBB_Halilintar_Final:R_leg_3
+    100170: BBB_Halilintar_Final:R_leg_4
+    100172: BBB_Halilintar_Final:R_shoe
+    100174: BBB_Halilintar_Final:R_watchead
+    100176: BBB_Halilintar_Final:skel_G
+    100178: BBB_Halilintar_Final:Watch_Earth_G
+    100180: BBB_Halilintar_Final:wind_shoe_G
+    100182: BBB_Halilintar_Final:zazas
+    100184: BBB_Halilintar_Final:zazas 1
+    100186: BBB_Halilintar_Final:zipper_2
+    100188: //RootNode
+    400000: BBB_Halilintar_Final:back_c
+    400002: BBB_Halilintar_Final:basic_G
+    400004: BBB_Halilintar_Final:body
+    400006: BBB_Halilintar_Final:body_G
+    400008: BBB_Halilintar_Final:cap
+    400010: BBB_Halilintar_Final:cap_earth
+    400012: BBB_Halilintar_Final:cap_teeth1
+    400014: BBB_Halilintar_Final:cap_teeth2
+    400016: BBB_Halilintar_Final:chest_
+    400018: BBB_Halilintar_Final:cluster3Handle
+    400020: BBB_Halilintar_Final:core
+    400022: BBB_Halilintar_Final:dontouch_G
+    400024: BBB_Halilintar_Final:earth_set
+    400026: BBB_Halilintar_Final:earthShirt
+    400028: BBB_Halilintar_Final:eyes_G
+    400030: BBB_Halilintar_Final:geo_G
+    400032: BBB_Halilintar_Final:hair
+    400034: BBB_Halilintar_Final:hair_G
+    400036: BBB_Halilintar_Final:halilintar_jacket
+    400038: BBB_Halilintar_Final:head3
+    400040: BBB_Halilintar_Final:head_G
+    400042: BBB_Halilintar_Final:ikHandle1
+    400044: BBB_Halilintar_Final:ikHandle2
+    400046: BBB_Halilintar_Final:ikHandle3
+    400048: BBB_Halilintar_Final:ikHandle4
+    400050: BBB_Halilintar_Final:ikHandle5
+    400052: BBB_Halilintar_Final:jacket_earth_G
+    400054: BBB_Halilintar_Final:jaw
+    400056: BBB_Halilintar_Final:joint5
+    400058: BBB_Halilintar_Final:L_eye
+    400060: BBB_Halilintar_Final:L_eye_G
+    400062: BBB_Halilintar_Final:L_hand
+    400064: BBB_Halilintar_Final:L_hand_1
+    400066: BBB_Halilintar_Final:L_hand_2
+    400068: BBB_Halilintar_Final:L_hand_3
+    400070: BBB_Halilintar_Final:L_hand_4
+    400072: BBB_Halilintar_Final:L_iris
+    400074: BBB_Halilintar_Final:L_leg_1
+    400076: BBB_Halilintar_Final:L_leg_2
+    400078: BBB_Halilintar_Final:L_leg_3
+    400080: BBB_Halilintar_Final:L_leg_4
+    400082: BBB_Halilintar_Final:L_leg_mesh
+    400084: BBB_Halilintar_Final:L_leg_mesh1
+    400086: BBB_Halilintar_Final:L_shoe
+    400088: BBB_Halilintar_Final:L_zip
+    400090: BBB_Halilintar_Final:L_zip1
+    400092: BBB_Halilintar_Final:neck
+    400094: BBB_Halilintar_Final:pants
+    400096: BBB_Halilintar_Final:pCube10
+    400098: BBB_Halilintar_Final:pCube11
+    400100: BBB_Halilintar_Final:pCube12
+    400102: BBB_Halilintar_Final:pCube13
+    400104: BBB_Halilintar_Final:pCube23
+    400106: BBB_Halilintar_Final:pCube24
+    400108: BBB_Halilintar_Final:pCube25
+    400110: BBB_Halilintar_Final:pCube26
+    400112: BBB_Halilintar_Final:pCube27
+    400114: BBB_Halilintar_Final:pCube28
+    400116: BBB_Halilintar_Final:pCube29
+    400118: BBB_Halilintar_Final:pCube33
+    400120: BBB_Halilintar_Final:pCube6
+    400122: BBB_Halilintar_Final:pCube7
+    400124: BBB_Halilintar_Final:pCube8
+    400126: BBB_Halilintar_Final:pCube9
+    400128: BBB_Halilintar_Final:pCylinder2
+    400130: BBB_Halilintar_Final:pCylinder3
+    400132: BBB_Halilintar_Final:polySurface1
+    400134: BBB_Halilintar_Final:polySurface10
+    400136: BBB_Halilintar_Final:polySurface29
+    400138: BBB_Halilintar_Final:polySurface3
+    400140: BBB_Halilintar_Final:polySurface4
+    400142: BBB_Halilintar_Final:pPipe6
+    400144: BBB_Halilintar_Final:pPipe7
+    400146: BBB_Halilintar_Final:pPipe8
+    400148: BBB_Halilintar_Final:R_eye
+    400150: BBB_Halilintar_Final:R_eye_G
+    400152: BBB_Halilintar_Final:R_hand
+    400154: BBB_Halilintar_Final:R_hand_1
+    400156: BBB_Halilintar_Final:R_hand_2
+    400158: BBB_Halilintar_Final:R_hand_3
+    400160: BBB_Halilintar_Final:R_hand_4
+    400162: BBB_Halilintar_Final:r_iris
+    400164: BBB_Halilintar_Final:R_leg_1
+    400166: BBB_Halilintar_Final:R_leg_2
+    400168: BBB_Halilintar_Final:R_leg_3
+    400170: BBB_Halilintar_Final:R_leg_4
+    400172: BBB_Halilintar_Final:R_shoe
+    400174: BBB_Halilintar_Final:R_watchead
+    400176: BBB_Halilintar_Final:skel_G
+    400178: BBB_Halilintar_Final:Watch_Earth_G
+    400180: BBB_Halilintar_Final:wind_shoe_G
+    400182: BBB_Halilintar_Final:zazas
+    400184: BBB_Halilintar_Final:zazas 1
+    400186: BBB_Halilintar_Final:zipper_2
+    400188: //RootNode
+    2300000: BBB_Halilintar_Final:cap
+    2300002: BBB_Halilintar_Final:cap_teeth1
+    2300004: BBB_Halilintar_Final:cap_teeth2
+    2300006: BBB_Halilintar_Final:hair
+    2300008: BBB_Halilintar_Final:jaw
+    2300010: BBB_Halilintar_Final:L_eye
+    2300012: BBB_Halilintar_Final:L_iris
+    2300014: BBB_Halilintar_Final:pCube10
+    2300016: BBB_Halilintar_Final:pCube11
+    2300018: BBB_Halilintar_Final:pCube12
+    2300020: BBB_Halilintar_Final:pCube13
+    2300022: BBB_Halilintar_Final:pCube23
+    2300024: BBB_Halilintar_Final:pCube24
+    2300026: BBB_Halilintar_Final:pCube25
+    2300028: BBB_Halilintar_Final:pCube26
+    2300030: BBB_Halilintar_Final:pCube27
+    2300032: BBB_Halilintar_Final:pCube28
+    2300034: BBB_Halilintar_Final:pCube29
+    2300036: BBB_Halilintar_Final:pCube6
+    2300038: BBB_Halilintar_Final:pCube7
+    2300040: BBB_Halilintar_Final:pCube8
+    2300042: BBB_Halilintar_Final:pCube9
+    2300044: BBB_Halilintar_Final:pCylinder2
+    2300046: BBB_Halilintar_Final:pCylinder3
+    2300048: BBB_Halilintar_Final:polySurface1
+    2300050: BBB_Halilintar_Final:polySurface3
+    2300052: BBB_Halilintar_Final:polySurface4
+    2300054: BBB_Halilintar_Final:pPipe6
+    2300056: BBB_Halilintar_Final:pPipe7
+    2300058: BBB_Halilintar_Final:pPipe8
+    2300060: BBB_Halilintar_Final:R_eye
+    2300062: BBB_Halilintar_Final:r_iris
+    2300064: BBB_Halilintar_Final:zazas 1
+    3300000: BBB_Halilintar_Final:cap
+    3300002: BBB_Halilintar_Final:cap_teeth1
+    3300004: BBB_Halilintar_Final:cap_teeth2
+    3300006: BBB_Halilintar_Final:hair
+    3300008: BBB_Halilintar_Final:jaw
+    3300010: BBB_Halilintar_Final:L_eye
+    3300012: BBB_Halilintar_Final:L_iris
+    3300014: BBB_Halilintar_Final:pCube10
+    3300016: BBB_Halilintar_Final:pCube11
+    3300018: BBB_Halilintar_Final:pCube12
+    3300020: BBB_Halilintar_Final:pCube13
+    3300022: BBB_Halilintar_Final:pCube23
+    3300024: BBB_Halilintar_Final:pCube24
+    3300026: BBB_Halilintar_Final:pCube25
+    3300028: BBB_Halilintar_Final:pCube26
+    3300030: BBB_Halilintar_Final:pCube27
+    3300032: BBB_Halilintar_Final:pCube28
+    3300034: BBB_Halilintar_Final:pCube29
+    3300036: BBB_Halilintar_Final:pCube6
+    3300038: BBB_Halilintar_Final:pCube7
+    3300040: BBB_Halilintar_Final:pCube8
+    3300042: BBB_Halilintar_Final:pCube9
+    3300044: BBB_Halilintar_Final:pCylinder2
+    3300046: BBB_Halilintar_Final:pCylinder3
+    3300048: BBB_Halilintar_Final:polySurface1
+    3300050: BBB_Halilintar_Final:polySurface3
+    3300052: BBB_Halilintar_Final:polySurface4
+    3300054: BBB_Halilintar_Final:pPipe6
+    3300056: BBB_Halilintar_Final:pPipe7
+    3300058: BBB_Halilintar_Final:pPipe8
+    3300060: BBB_Halilintar_Final:R_eye
+    3300062: BBB_Halilintar_Final:r_iris
+    3300064: BBB_Halilintar_Final:zazas 1
+    4300000: BBB_Halilintar_Final:polySurface10
+    4300002: BBB_Halilintar_Final:L_zip
+    4300004: BBB_Halilintar_Final:L_zip1
+    4300006: BBB_Halilintar_Final:pCube33
+    4300008: BBB_Halilintar_Final:halilintar_jacket
+    4300010: BBB_Halilintar_Final:polySurface29
+    4300012: BBB_Halilintar_Final:zazas
+    4300014: BBB_Halilintar_Final:earthShirt
+    4300016: BBB_Halilintar_Final:L_shoe
+    4300018: BBB_Halilintar_Final:R_shoe
+    4300020: BBB_Halilintar_Final:head3
+    4300022: BBB_Halilintar_Final:pants
+    4300024: BBB_Halilintar_Final:L_leg_mesh
+    4300026: BBB_Halilintar_Final:L_leg_mesh1
+    4300028: BBB_Halilintar_Final:L_hand
+    4300030: BBB_Halilintar_Final:R_hand
+    4300032: BBB_Halilintar_Final:jaw
+    4300034: BBB_Halilintar_Final:hair
+    4300036: BBB_Halilintar_Final:pCube13
+    4300038: BBB_Halilintar_Final:pCube12
+    4300040: BBB_Halilintar_Final:pCube11
+    4300042: BBB_Halilintar_Final:pCube10
+    4300044: BBB_Halilintar_Final:pCube9
+    4300046: BBB_Halilintar_Final:pCube8
+    4300048: BBB_Halilintar_Final:pCube7
+    4300050: BBB_Halilintar_Final:pCube6
+    4300052: BBB_Halilintar_Final:pCube23
+    4300054: BBB_Halilintar_Final:pCube24
+    4300056: BBB_Halilintar_Final:pCube25
+    4300058: BBB_Halilintar_Final:pCube26
+    4300060: BBB_Halilintar_Final:pCube27
+    4300062: BBB_Halilintar_Final:pCube28
+    4300064: BBB_Halilintar_Final:pCube29
+    4300066: BBB_Halilintar_Final:cap_teeth1
+    4300068: BBB_Halilintar_Final:cap_teeth2
+    4300070: BBB_Halilintar_Final:cap
+    4300072: BBB_Halilintar_Final:zazas
+    4300074: BBB_Halilintar_Final:L_eye
+    4300076: BBB_Halilintar_Final:L_iris
+    4300078: BBB_Halilintar_Final:R_eye
+    4300080: BBB_Halilintar_Final:r_iris
+    4300082: BBB_Halilintar_Final:pPipe6
+    4300084: BBB_Halilintar_Final:pPipe7
+    4300086: BBB_Halilintar_Final:pPipe8
+    4300088: BBB_Halilintar_Final:polySurface1
+    4300090: BBB_Halilintar_Final:pCylinder2
+    4300092: BBB_Halilintar_Final:pCylinder3
+    4300094: BBB_Halilintar_Final:polySurface3
+    4300096: BBB_Halilintar_Final:polySurface4
+    7400000: stand
+    7400002: run
+    7400004: attack
+    7400006: block
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BBB_Halilintar_Final:earthShirt
+    13700002: BBB_Halilintar_Final:halilintar_jacket
+    13700004: BBB_Halilintar_Final:head3
+    13700006: BBB_Halilintar_Final:L_hand
+    13700008: BBB_Halilintar_Final:L_leg_mesh
+    13700010: BBB_Halilintar_Final:L_leg_mesh1
+    13700012: BBB_Halilintar_Final:L_shoe
+    13700014: BBB_Halilintar_Final:L_zip
+    13700016: BBB_Halilintar_Final:L_zip1
+    13700018: BBB_Halilintar_Final:pants
+    13700020: BBB_Halilintar_Final:pCube33
+    13700022: BBB_Halilintar_Final:polySurface10
+    13700024: BBB_Halilintar_Final:polySurface29
+    13700026: BBB_Halilintar_Final:R_hand
+    13700028: BBB_Halilintar_Final:R_shoe
+    13700030: BBB_Halilintar_Final:zazas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:back_c
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle1
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle2
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle3
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle4
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle5
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:earthShirt
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:L_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:R_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:halilintar_jacket
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:pCube33
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface10
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface29
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:zazas
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:head3
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:pants
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:R_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3/BBB_Halilintar_Final:L_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:zazas
+          1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:R_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:r_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:hair
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube9
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube10
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube11
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube12
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube13
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube23
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube24
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube25
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube26
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube27
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube28
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube29
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:jaw
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:joint5
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3/BBB_Halilintar_Final:R_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3/BBB_Halilintar_Final:L_leg_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3/BBB_Halilintar_Final:R_leg_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 42
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:back_c
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle1
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle2
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle3
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle4
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle5
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:earthShirt
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:L_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:R_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:halilintar_jacket
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:pCube33
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface10
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface29
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:zazas
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:head3
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:pants
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:R_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3/BBB_Halilintar_Final:L_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:zazas
+          1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:R_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:r_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:hair
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube9
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube10
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube11
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube12
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube13
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube23
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube24
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube25
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube26
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube27
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube28
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube29
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:jaw
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:joint5
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3/BBB_Halilintar_Final:R_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3/BBB_Halilintar_Final:L_leg_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3/BBB_Halilintar_Final:R_leg_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 102
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:back_c
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle1
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle2
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle3
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle4
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle5
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:earthShirt
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:L_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:R_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:halilintar_jacket
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:pCube33
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface10
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface29
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:zazas
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:head3
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:pants
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:R_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3/BBB_Halilintar_Final:L_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:zazas
+          1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:R_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:r_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:hair
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube9
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube10
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube11
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube12
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube13
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube23
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube24
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube25
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube26
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube27
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube28
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube29
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:jaw
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:joint5
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3/BBB_Halilintar_Final:R_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3/BBB_Halilintar_Final:L_leg_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3/BBB_Halilintar_Final:R_leg_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: block
+      takeName: Take 001
+      firstFrame: 103
+      lastFrame: 124
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:back_c
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle1
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle2
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle3
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle4
+        weight: 1
+      - path: BBB_Halilintar_Final:dontouch_G/BBB_Halilintar_Final:ikHandle5
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:earthShirt
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:L_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:basic_G/BBB_Halilintar_Final:wind_shoe_G/BBB_Halilintar_Final:R_shoe
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:halilintar_jacket
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:pCube33
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:jacket_earth_G/BBB_Halilintar_Final:zipper_2/BBB_Halilintar_Final:L_zip1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface10
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:polySurface29
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:earth_set/BBB_Halilintar_Final:zazas
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:head3
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:L_leg_mesh1
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:pants
+        weight: 1
+      - path: BBB_Halilintar_Final:geo_G/BBB_Halilintar_Final:body_G/BBB_Halilintar_Final:R_hand
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:L_hand_1/BBB_Halilintar_Final:L_hand_2/BBB_Halilintar_Final:L_hand_3/BBB_Halilintar_Final:L_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:cap_earth/BBB_Halilintar_Final:zazas
+          1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:L_eye_G/BBB_Halilintar_Final:L_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:R_eye
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:eyes_G/BBB_Halilintar_Final:R_eye_G/BBB_Halilintar_Final:r_iris
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:hair
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube9
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube10
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube11
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube12
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube13
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube23
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube24
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube25
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube26
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube27
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube28
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:hair_G/BBB_Halilintar_Final:pCube29
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:head_G/BBB_Halilintar_Final:jaw
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:neck/BBB_Halilintar_Final:joint5
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:R_hand_3/BBB_Halilintar_Final:R_hand_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe6
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe7
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:pPipe8
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:pCylinder3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:body/BBB_Halilintar_Final:chest_/BBB_Halilintar_Final:R_hand_1/BBB_Halilintar_Final:R_hand_2/BBB_Halilintar_Final:Watch_Earth_G/BBB_Halilintar_Final:R_watchead/BBB_Halilintar_Final:polySurface4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:L_leg_1/BBB_Halilintar_Final:L_leg_2/BBB_Halilintar_Final:L_leg_3/BBB_Halilintar_Final:L_leg_4
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3
+        weight: 1
+      - path: BBB_Halilintar_Final:skel_G/BBB_Halilintar_Final:core/BBB_Halilintar_Final:R_leg_1/BBB_Halilintar_Final:R_leg_2/BBB_Halilintar_Final:R_leg_3/BBB_Halilintar_Final:R_leg_4
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

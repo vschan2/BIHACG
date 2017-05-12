@@ -1,0 +1,1983 @@
+fileFormatVersion: 2
+guid: 989722f9a8bb8ea42ae582e90632cdbd
+timeCreated: 1489051444
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Fang_Final:body
+    100004: Fang_Final:body_G
+    100006: Fang_Final:cheek_ctrl
+    100008: Fang_Final:chest_
+    100010: Fang_Final:chest_ctrl
+    100012: Fang_Final:chest_ctrl_G
+    100014: Fang_Final:cluster1Handle
+    100016: Fang_Final:cluster2Handle
+    100018: Fang_Final:cluster3Handle
+    100020: Fang_Final:cluster4Handle
+    100022: Fang_Final:core
+    100024: Fang_Final:ctrl_G
+    100026: Fang_Final:ctrl_GG
+    100028: Fang_Final:curve1
+    100030: Fang_Final:dontouch_G
+    100032: Fang_Final:eyes_ctrl
+    100034: Fang_Final:eyes_ctrl_G
+    100036: Fang_Final:face_ctrl
+    100038: Fang_Final:facial_ctrl_G
+    100040: Fang_Final:facial_nest
+    100042: Fang_Final:Fang_Final:arms_G
+    100044: Fang_Final:Fang_Final:belt
+    100046: Fang_Final:Fang_Final:casual_G
+    100048: Fang_Final:Fang_Final:Cornea
+    100050: Fang_Final:Fang_Final:Cornea 1
+    100052: Fang_Final:Fang_Final:eyebrow
+    100054: Fang_Final:Fang_Final:eyes_G
+    100056: Fang_Final:Fang_Final:glasses
+    100058: Fang_Final:Fang_Final:hair_G
+    100060: Fang_Final:Fang_Final:head
+    100062: Fang_Final:Fang_Final:Iris
+    100064: Fang_Final:Fang_Final:Iris 1
+    100066: Fang_Final:Fang_Final:jacket_mesh
+    100068: Fang_Final:Fang_Final:jaw
+    100070: Fang_Final:Fang_Final:L_eye_G
+    100072: Fang_Final:Fang_Final:L_leg
+    100074: Fang_Final:Fang_Final:L_shoe
+    100076: Fang_Final:Fang_Final:L_shoe1
+    100078: Fang_Final:Fang_Final:L_sock
+    100080: Fang_Final:Fang_Final:legs_G
+    100082: Fang_Final:Fang_Final:pants
+    100084: Fang_Final:Fang_Final:pCube1
+    100086: Fang_Final:Fang_Final:pCube10
+    100088: Fang_Final:Fang_Final:pCube11
+    100090: Fang_Final:Fang_Final:pCube12
+    100092: Fang_Final:Fang_Final:pCube13
+    100094: Fang_Final:Fang_Final:pCube14
+    100096: Fang_Final:Fang_Final:pCube16
+    100098: Fang_Final:Fang_Final:pCube17
+    100100: Fang_Final:Fang_Final:pCube18
+    100102: Fang_Final:Fang_Final:pCube2
+    100104: Fang_Final:Fang_Final:pCube20
+    100106: Fang_Final:Fang_Final:pCube201
+    100108: Fang_Final:Fang_Final:pCube205
+    100110: Fang_Final:Fang_Final:pCube21
+    100112: Fang_Final:Fang_Final:pCube22
+    100114: Fang_Final:Fang_Final:pCube23
+    100116: Fang_Final:Fang_Final:pCube24
+    100118: Fang_Final:Fang_Final:pCube25
+    100120: Fang_Final:Fang_Final:pCube26
+    100122: Fang_Final:Fang_Final:pCube3
+    100124: Fang_Final:Fang_Final:pCube32
+    100126: Fang_Final:Fang_Final:pCube33
+    100128: Fang_Final:Fang_Final:pCube34
+    100130: Fang_Final:Fang_Final:pCube4
+    100132: Fang_Final:Fang_Final:pCube5
+    100134: Fang_Final:Fang_Final:pCube54
+    100136: Fang_Final:Fang_Final:pCube55
+    100138: Fang_Final:Fang_Final:pCube56
+    100140: Fang_Final:Fang_Final:pCube58
+    100142: Fang_Final:Fang_Final:pCube6
+    100144: Fang_Final:Fang_Final:pCube60
+    100146: Fang_Final:Fang_Final:pCube66
+    100148: Fang_Final:Fang_Final:pCube69
+    100150: Fang_Final:Fang_Final:pCube8
+    100152: Fang_Final:Fang_Final:pCube9
+    100154: Fang_Final:Fang_Final:pCylinder12
+    100156: Fang_Final:Fang_Final:pCylinder9
+    100158: Fang_Final:Fang_Final:pupil
+    100160: Fang_Final:Fang_Final:pupil 1
+    100162: Fang_Final:Fang_Final:R_eye_G
+    100164: Fang_Final:Fang_Final:R_leg
+    100166: Fang_Final:Fang_Final:R_sock
+    100168: Fang_Final:Fang_Final:shirt
+    100170: Fang_Final:Fang_Final:spec_frame
+    100172: Fang_Final:Fang_Final:white
+    100174: Fang_Final:Fang_Final:white 1
+    100176: Fang_Final:geo_G
+    100178: Fang_Final:head_ctrl
+    100180: Fang_Final:head_ctrl_G
+    100182: Fang_Final:head_G
+    100184: Fang_Final:ikHandle1
+    100186: Fang_Final:ikHandle2
+    100188: Fang_Final:ikHandle3
+    100190: Fang_Final:ikHandle4
+    100192: Fang_Final:ikHandle5
+    100194: Fang_Final:jaw_ctrl
+    100196: Fang_Final:joint5
+    100198: Fang_Final:L_arm_ctrl_G
+    100200: Fang_Final:L_arm_ctrl_GG
+    100202: Fang_Final:L_brow_ctrl
+    100204: Fang_Final:L_clavicle_ctrl
+    100206: Fang_Final:L_elbow_ctrl
+    100208: Fang_Final:L_eye_ctrl
+    100210: Fang_Final:L_foot_ctrl
+    100212: Fang_Final:L_foot_gimbal_ctrl
+    100214: Fang_Final:L_foot_gimbal_ctrl_G
+    100216: Fang_Final:L_hand
+    100218: Fang_Final:L_hand_1
+    100220: Fang_Final:L_hand_2
+    100222: Fang_Final:L_hand_2 1
+    100224: Fang_Final:L_hand_3
+    100226: Fang_Final:L_hand_3 1
+    100228: Fang_Final:L_hand_4
+    100230: Fang_Final:L_hand_4 1
+    100232: Fang_Final:L_hand_9
+    100234: Fang_Final:L_hand_ctrl
+    100236: Fang_Final:L_hand_gimbal_ctrl
+    100238: Fang_Final:L_hand_gimbal_ctrl_G
+    100240: Fang_Final:L_knee_ctrl
+    100242: Fang_Final:L_leg_1
+    100244: Fang_Final:L_leg_2
+    100246: Fang_Final:L_leg_3
+    100248: Fang_Final:L_leg_4
+    100250: Fang_Final:L_leg_ctrl_G
+    100252: Fang_Final:L_leg_ctrl_GG
+    100254: Fang_Final:L_lid_ctrl
+    100256: Fang_Final:lwlip_ctrl
+    100258: Fang_Final:M_brow_ctrl
+    100260: Fang_Final:mesh_G
+    100262: Fang_Final:mouth_ctrl
+    100264: Fang_Final:neck
+    100266: Fang_Final:nose_ctrl
+    100268: Fang_Final:R_arm_ctrl_G
+    100270: Fang_Final:R_arm_ctrl_GG
+    100272: Fang_Final:R_brow_ctrl
+    100274: Fang_Final:R_clavicle_ctrl
+    100276: Fang_Final:R_elbow_ctrl
+    100278: Fang_Final:R_eye_ctrl
+    100280: Fang_Final:R_foot_ctrl
+    100282: Fang_Final:R_foot_gimbal_ctrl
+    100284: Fang_Final:R_foot_gimbal_ctrl_G
+    100286: Fang_Final:R_hand
+    100288: Fang_Final:R_hand_ctrl
+    100290: Fang_Final:R_hand_gimbal_ctrl
+    100292: Fang_Final:R_hand_gimbal_ctrl_G
+    100294: Fang_Final:R_knee_ctrl
+    100296: Fang_Final:R_leg_1
+    100298: Fang_Final:R_leg_2
+    100300: Fang_Final:R_leg_3
+    100302: Fang_Final:R_leg_4
+    100304: Fang_Final:R_leg_ctrl_G
+    100306: Fang_Final:R_leg_ctrl_GG
+    100308: Fang_Final:R_lid_ctrl
+    100310: Fang_Final:root_ctrl
+    100312: Fang_Final:skel_G
+    100314: Fang_Final:spine_ctrl_G
+    100316: Fang_Final:tongue_ctrl
+    100318: Fang_Final:transform_ctrl
+    100320: Fang_Final:uplip_ctrl
+    100322: Fang_Final:visibility_ctrl
+    100324: Fang_Final:waist_ctrl
+    100326: Fang_Final:waist_ctrl_G
+    400000: //RootNode
+    400002: Fang_Final:body
+    400004: Fang_Final:body_G
+    400006: Fang_Final:cheek_ctrl
+    400008: Fang_Final:chest_
+    400010: Fang_Final:chest_ctrl
+    400012: Fang_Final:chest_ctrl_G
+    400014: Fang_Final:cluster1Handle
+    400016: Fang_Final:cluster2Handle
+    400018: Fang_Final:cluster3Handle
+    400020: Fang_Final:cluster4Handle
+    400022: Fang_Final:core
+    400024: Fang_Final:ctrl_G
+    400026: Fang_Final:ctrl_GG
+    400028: Fang_Final:curve1
+    400030: Fang_Final:dontouch_G
+    400032: Fang_Final:eyes_ctrl
+    400034: Fang_Final:eyes_ctrl_G
+    400036: Fang_Final:face_ctrl
+    400038: Fang_Final:facial_ctrl_G
+    400040: Fang_Final:facial_nest
+    400042: Fang_Final:Fang_Final:arms_G
+    400044: Fang_Final:Fang_Final:belt
+    400046: Fang_Final:Fang_Final:casual_G
+    400048: Fang_Final:Fang_Final:Cornea
+    400050: Fang_Final:Fang_Final:Cornea 1
+    400052: Fang_Final:Fang_Final:eyebrow
+    400054: Fang_Final:Fang_Final:eyes_G
+    400056: Fang_Final:Fang_Final:glasses
+    400058: Fang_Final:Fang_Final:hair_G
+    400060: Fang_Final:Fang_Final:head
+    400062: Fang_Final:Fang_Final:Iris
+    400064: Fang_Final:Fang_Final:Iris 1
+    400066: Fang_Final:Fang_Final:jacket_mesh
+    400068: Fang_Final:Fang_Final:jaw
+    400070: Fang_Final:Fang_Final:L_eye_G
+    400072: Fang_Final:Fang_Final:L_leg
+    400074: Fang_Final:Fang_Final:L_shoe
+    400076: Fang_Final:Fang_Final:L_shoe1
+    400078: Fang_Final:Fang_Final:L_sock
+    400080: Fang_Final:Fang_Final:legs_G
+    400082: Fang_Final:Fang_Final:pants
+    400084: Fang_Final:Fang_Final:pCube1
+    400086: Fang_Final:Fang_Final:pCube10
+    400088: Fang_Final:Fang_Final:pCube11
+    400090: Fang_Final:Fang_Final:pCube12
+    400092: Fang_Final:Fang_Final:pCube13
+    400094: Fang_Final:Fang_Final:pCube14
+    400096: Fang_Final:Fang_Final:pCube16
+    400098: Fang_Final:Fang_Final:pCube17
+    400100: Fang_Final:Fang_Final:pCube18
+    400102: Fang_Final:Fang_Final:pCube2
+    400104: Fang_Final:Fang_Final:pCube20
+    400106: Fang_Final:Fang_Final:pCube201
+    400108: Fang_Final:Fang_Final:pCube205
+    400110: Fang_Final:Fang_Final:pCube21
+    400112: Fang_Final:Fang_Final:pCube22
+    400114: Fang_Final:Fang_Final:pCube23
+    400116: Fang_Final:Fang_Final:pCube24
+    400118: Fang_Final:Fang_Final:pCube25
+    400120: Fang_Final:Fang_Final:pCube26
+    400122: Fang_Final:Fang_Final:pCube3
+    400124: Fang_Final:Fang_Final:pCube32
+    400126: Fang_Final:Fang_Final:pCube33
+    400128: Fang_Final:Fang_Final:pCube34
+    400130: Fang_Final:Fang_Final:pCube4
+    400132: Fang_Final:Fang_Final:pCube5
+    400134: Fang_Final:Fang_Final:pCube54
+    400136: Fang_Final:Fang_Final:pCube55
+    400138: Fang_Final:Fang_Final:pCube56
+    400140: Fang_Final:Fang_Final:pCube58
+    400142: Fang_Final:Fang_Final:pCube6
+    400144: Fang_Final:Fang_Final:pCube60
+    400146: Fang_Final:Fang_Final:pCube66
+    400148: Fang_Final:Fang_Final:pCube69
+    400150: Fang_Final:Fang_Final:pCube8
+    400152: Fang_Final:Fang_Final:pCube9
+    400154: Fang_Final:Fang_Final:pCylinder12
+    400156: Fang_Final:Fang_Final:pCylinder9
+    400158: Fang_Final:Fang_Final:pupil
+    400160: Fang_Final:Fang_Final:pupil 1
+    400162: Fang_Final:Fang_Final:R_eye_G
+    400164: Fang_Final:Fang_Final:R_leg
+    400166: Fang_Final:Fang_Final:R_sock
+    400168: Fang_Final:Fang_Final:shirt
+    400170: Fang_Final:Fang_Final:spec_frame
+    400172: Fang_Final:Fang_Final:white
+    400174: Fang_Final:Fang_Final:white 1
+    400176: Fang_Final:geo_G
+    400178: Fang_Final:head_ctrl
+    400180: Fang_Final:head_ctrl_G
+    400182: Fang_Final:head_G
+    400184: Fang_Final:ikHandle1
+    400186: Fang_Final:ikHandle2
+    400188: Fang_Final:ikHandle3
+    400190: Fang_Final:ikHandle4
+    400192: Fang_Final:ikHandle5
+    400194: Fang_Final:jaw_ctrl
+    400196: Fang_Final:joint5
+    400198: Fang_Final:L_arm_ctrl_G
+    400200: Fang_Final:L_arm_ctrl_GG
+    400202: Fang_Final:L_brow_ctrl
+    400204: Fang_Final:L_clavicle_ctrl
+    400206: Fang_Final:L_elbow_ctrl
+    400208: Fang_Final:L_eye_ctrl
+    400210: Fang_Final:L_foot_ctrl
+    400212: Fang_Final:L_foot_gimbal_ctrl
+    400214: Fang_Final:L_foot_gimbal_ctrl_G
+    400216: Fang_Final:L_hand
+    400218: Fang_Final:L_hand_1
+    400220: Fang_Final:L_hand_2
+    400222: Fang_Final:L_hand_2 1
+    400224: Fang_Final:L_hand_3
+    400226: Fang_Final:L_hand_3 1
+    400228: Fang_Final:L_hand_4
+    400230: Fang_Final:L_hand_4 1
+    400232: Fang_Final:L_hand_9
+    400234: Fang_Final:L_hand_ctrl
+    400236: Fang_Final:L_hand_gimbal_ctrl
+    400238: Fang_Final:L_hand_gimbal_ctrl_G
+    400240: Fang_Final:L_knee_ctrl
+    400242: Fang_Final:L_leg_1
+    400244: Fang_Final:L_leg_2
+    400246: Fang_Final:L_leg_3
+    400248: Fang_Final:L_leg_4
+    400250: Fang_Final:L_leg_ctrl_G
+    400252: Fang_Final:L_leg_ctrl_GG
+    400254: Fang_Final:L_lid_ctrl
+    400256: Fang_Final:lwlip_ctrl
+    400258: Fang_Final:M_brow_ctrl
+    400260: Fang_Final:mesh_G
+    400262: Fang_Final:mouth_ctrl
+    400264: Fang_Final:neck
+    400266: Fang_Final:nose_ctrl
+    400268: Fang_Final:R_arm_ctrl_G
+    400270: Fang_Final:R_arm_ctrl_GG
+    400272: Fang_Final:R_brow_ctrl
+    400274: Fang_Final:R_clavicle_ctrl
+    400276: Fang_Final:R_elbow_ctrl
+    400278: Fang_Final:R_eye_ctrl
+    400280: Fang_Final:R_foot_ctrl
+    400282: Fang_Final:R_foot_gimbal_ctrl
+    400284: Fang_Final:R_foot_gimbal_ctrl_G
+    400286: Fang_Final:R_hand
+    400288: Fang_Final:R_hand_ctrl
+    400290: Fang_Final:R_hand_gimbal_ctrl
+    400292: Fang_Final:R_hand_gimbal_ctrl_G
+    400294: Fang_Final:R_knee_ctrl
+    400296: Fang_Final:R_leg_1
+    400298: Fang_Final:R_leg_2
+    400300: Fang_Final:R_leg_3
+    400302: Fang_Final:R_leg_4
+    400304: Fang_Final:R_leg_ctrl_G
+    400306: Fang_Final:R_leg_ctrl_GG
+    400308: Fang_Final:R_lid_ctrl
+    400310: Fang_Final:root_ctrl
+    400312: Fang_Final:skel_G
+    400314: Fang_Final:spine_ctrl_G
+    400316: Fang_Final:tongue_ctrl
+    400318: Fang_Final:transform_ctrl
+    400320: Fang_Final:uplip_ctrl
+    400322: Fang_Final:visibility_ctrl
+    400324: Fang_Final:waist_ctrl
+    400326: Fang_Final:waist_ctrl_G
+    4300000: Fang_Final:Fang_Final:pCylinder9
+    4300002: Fang_Final:Fang_Final:pCylinder12
+    4300004: Fang_Final:Fang_Final:spec_frame
+    4300006: Fang_Final:Fang_Final:pCube32
+    4300008: Fang_Final:Fang_Final:pCube1
+    4300010: Fang_Final:Fang_Final:pCube2
+    4300012: Fang_Final:Fang_Final:pCube3
+    4300014: Fang_Final:Fang_Final:pCube5
+    4300016: Fang_Final:Fang_Final:pCube4
+    4300018: Fang_Final:Fang_Final:pCube26
+    4300020: Fang_Final:Fang_Final:pCube25
+    4300022: Fang_Final:Fang_Final:pCube22
+    4300024: Fang_Final:Fang_Final:pCube21
+    4300026: Fang_Final:Fang_Final:pCube20
+    4300028: Fang_Final:Fang_Final:pCube8
+    4300030: Fang_Final:Fang_Final:pCube11
+    4300032: Fang_Final:Fang_Final:pCube16
+    4300034: Fang_Final:Fang_Final:pCube24
+    4300036: Fang_Final:Fang_Final:pCube23
+    4300038: Fang_Final:Fang_Final:pCube14
+    4300040: Fang_Final:Fang_Final:pCube12
+    4300042: Fang_Final:Fang_Final:pCube33
+    4300044: Fang_Final:Fang_Final:pCube34
+    4300046: Fang_Final:Fang_Final:pCube13
+    4300048: Fang_Final:Fang_Final:pCube18
+    4300050: Fang_Final:Fang_Final:pCube17
+    4300052: Fang_Final:Fang_Final:pCube56
+    4300054: Fang_Final:Fang_Final:pCube6
+    4300056: Fang_Final:Fang_Final:pCube9
+    4300058: Fang_Final:Fang_Final:pCube10
+    4300060: Fang_Final:Fang_Final:pCube58
+    4300062: Fang_Final:Fang_Final:pCube54
+    4300064: Fang_Final:Fang_Final:pCube55
+    4300066: Fang_Final:Fang_Final:pCube60
+    4300068: Fang_Final:Fang_Final:pCube66
+    4300070: Fang_Final:Fang_Final:pCube69
+    4300072: Fang_Final:Fang_Final:pCube201
+    4300074: Fang_Final:Fang_Final:pCube205
+    4300076: Fang_Final:Fang_Final:Cornea
+    4300078: Fang_Final:Fang_Final:pupil
+    4300080: Fang_Final:Fang_Final:Iris
+    4300082: Fang_Final:Fang_Final:white
+    4300084: Fang_Final:Fang_Final:Cornea
+    4300086: Fang_Final:Fang_Final:pupil
+    4300088: Fang_Final:Fang_Final:Iris
+    4300090: Fang_Final:Fang_Final:white
+    4300092: Fang_Final:Fang_Final:eyebrow
+    4300094: Fang_Final:Fang_Final:jaw
+    4300096: Fang_Final:Fang_Final:shirt
+    4300098: Fang_Final:Fang_Final:pants
+    4300100: Fang_Final:Fang_Final:belt
+    4300102: Fang_Final:Fang_Final:jacket_mesh
+    4300104: Fang_Final:R_hand
+    4300106: Fang_Final:L_hand
+    4300108: Fang_Final:Fang_Final:L_shoe
+    4300110: Fang_Final:Fang_Final:R_leg
+    4300112: Fang_Final:Fang_Final:R_sock
+    4300114: Fang_Final:Fang_Final:L_sock
+    4300116: Fang_Final:Fang_Final:L_leg
+    4300118: Fang_Final:Fang_Final:L_shoe1
+    4300120: Fang_Final:Fang_Final:head
+    7400000: stand
+    7400002: run
+    7400004: attack
+    7400006: block
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Fang_Final:Fang_Final:belt
+    13700002: Fang_Final:Fang_Final:Cornea
+    13700004: Fang_Final:Fang_Final:Cornea 1
+    13700006: Fang_Final:Fang_Final:eyebrow
+    13700008: Fang_Final:Fang_Final:head
+    13700010: Fang_Final:Fang_Final:Iris
+    13700012: Fang_Final:Fang_Final:Iris 1
+    13700014: Fang_Final:Fang_Final:jacket_mesh
+    13700016: Fang_Final:Fang_Final:jaw
+    13700018: Fang_Final:Fang_Final:L_leg
+    13700020: Fang_Final:Fang_Final:L_shoe
+    13700022: Fang_Final:Fang_Final:L_shoe1
+    13700024: Fang_Final:Fang_Final:L_sock
+    13700026: Fang_Final:Fang_Final:pants
+    13700028: Fang_Final:Fang_Final:pCube1
+    13700030: Fang_Final:Fang_Final:pCube10
+    13700032: Fang_Final:Fang_Final:pCube11
+    13700034: Fang_Final:Fang_Final:pCube12
+    13700036: Fang_Final:Fang_Final:pCube13
+    13700038: Fang_Final:Fang_Final:pCube14
+    13700040: Fang_Final:Fang_Final:pCube16
+    13700042: Fang_Final:Fang_Final:pCube17
+    13700044: Fang_Final:Fang_Final:pCube18
+    13700046: Fang_Final:Fang_Final:pCube2
+    13700048: Fang_Final:Fang_Final:pCube20
+    13700050: Fang_Final:Fang_Final:pCube201
+    13700052: Fang_Final:Fang_Final:pCube205
+    13700054: Fang_Final:Fang_Final:pCube21
+    13700056: Fang_Final:Fang_Final:pCube22
+    13700058: Fang_Final:Fang_Final:pCube23
+    13700060: Fang_Final:Fang_Final:pCube24
+    13700062: Fang_Final:Fang_Final:pCube25
+    13700064: Fang_Final:Fang_Final:pCube26
+    13700066: Fang_Final:Fang_Final:pCube3
+    13700068: Fang_Final:Fang_Final:pCube32
+    13700070: Fang_Final:Fang_Final:pCube33
+    13700072: Fang_Final:Fang_Final:pCube34
+    13700074: Fang_Final:Fang_Final:pCube4
+    13700076: Fang_Final:Fang_Final:pCube5
+    13700078: Fang_Final:Fang_Final:pCube54
+    13700080: Fang_Final:Fang_Final:pCube55
+    13700082: Fang_Final:Fang_Final:pCube56
+    13700084: Fang_Final:Fang_Final:pCube58
+    13700086: Fang_Final:Fang_Final:pCube6
+    13700088: Fang_Final:Fang_Final:pCube60
+    13700090: Fang_Final:Fang_Final:pCube66
+    13700092: Fang_Final:Fang_Final:pCube69
+    13700094: Fang_Final:Fang_Final:pCube8
+    13700096: Fang_Final:Fang_Final:pCube9
+    13700098: Fang_Final:Fang_Final:pCylinder12
+    13700100: Fang_Final:Fang_Final:pCylinder9
+    13700102: Fang_Final:Fang_Final:pupil
+    13700104: Fang_Final:Fang_Final:pupil 1
+    13700106: Fang_Final:Fang_Final:R_leg
+    13700108: Fang_Final:Fang_Final:R_sock
+    13700110: Fang_Final:Fang_Final:shirt
+    13700112: Fang_Final:Fang_Final:spec_frame
+    13700114: Fang_Final:Fang_Final:white
+    13700116: Fang_Final:Fang_Final:white 1
+    13700118: Fang_Final:L_hand
+    13700120: Fang_Final:R_hand
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fang_Final:ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:L_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:R_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:cheek_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:face_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:jaw_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:lwlip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:M_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:mouth_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:nose_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:tongue_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:uplip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G/Fang_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G/Fang_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G/Fang_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G/Fang_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G/Fang_Final:chest_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G/Fang_Final:head_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:root_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G/Fang_Final:waist_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl/Fang_Final:visibility_ctrl
+        weight: 1
+      - path: Fang_Final:dontouch_G
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster1Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster2Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster3Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster4Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle1
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle2
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle3
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle4
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle5
+        weight: 1
+      - path: Fang_Final:geo_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:L_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:R_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:belt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:jacket_mesh
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:pants
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:shirt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:head
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyebrow
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Cornea
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Iris
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:pupil
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:white
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Cornea
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Iris
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:pupil
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:white
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:spec_frame
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube2
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube3
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube4
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube5
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube6
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube8
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube10
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube11
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube13
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube14
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube16
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube17
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube18
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube20
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube21
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube22
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube23
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube24
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube25
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube26
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube32
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube33
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube34
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube54
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube55
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube56
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube58
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube60
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube66
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube69
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube201
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube205
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:jaw
+        weight: 1
+      - path: Fang_Final:skel_G
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3/Fang_Final:L_hand_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1/Fang_Final:L_hand_4 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck/Fang_Final:joint5
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3/Fang_Final:L_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3/Fang_Final:R_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 42
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fang_Final:ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:L_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:R_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:cheek_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:face_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:jaw_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:lwlip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:M_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:mouth_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:nose_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:tongue_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:uplip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G/Fang_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G/Fang_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G/Fang_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G/Fang_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G/Fang_Final:chest_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G/Fang_Final:head_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:root_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G/Fang_Final:waist_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl/Fang_Final:visibility_ctrl
+        weight: 1
+      - path: Fang_Final:dontouch_G
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster1Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster2Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster3Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster4Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle1
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle2
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle3
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle4
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle5
+        weight: 1
+      - path: Fang_Final:geo_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:L_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:R_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:belt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:jacket_mesh
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:pants
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:shirt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:head
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyebrow
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Cornea
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Iris
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:pupil
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:white
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Cornea
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Iris
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:pupil
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:white
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:spec_frame
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube2
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube3
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube4
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube5
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube6
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube8
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube10
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube11
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube13
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube14
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube16
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube17
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube18
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube20
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube21
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube22
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube23
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube24
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube25
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube26
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube32
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube33
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube34
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube54
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube55
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube56
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube58
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube60
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube66
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube69
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube201
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube205
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:jaw
+        weight: 1
+      - path: Fang_Final:skel_G
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3/Fang_Final:L_hand_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1/Fang_Final:L_hand_4 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck/Fang_Final:joint5
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3/Fang_Final:L_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3/Fang_Final:R_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 88
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fang_Final:ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:L_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:R_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:cheek_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:face_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:jaw_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:lwlip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:M_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:mouth_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:nose_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:tongue_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:uplip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G/Fang_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G/Fang_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G/Fang_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G/Fang_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G/Fang_Final:chest_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G/Fang_Final:head_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:root_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G/Fang_Final:waist_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl/Fang_Final:visibility_ctrl
+        weight: 1
+      - path: Fang_Final:dontouch_G
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster1Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster2Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster3Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster4Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle1
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle2
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle3
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle4
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle5
+        weight: 1
+      - path: Fang_Final:geo_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:L_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:R_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:belt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:jacket_mesh
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:pants
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:shirt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:head
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyebrow
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Cornea
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Iris
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:pupil
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:white
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Cornea
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Iris
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:pupil
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:white
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:spec_frame
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube2
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube3
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube4
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube5
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube6
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube8
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube10
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube11
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube13
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube14
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube16
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube17
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube18
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube20
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube21
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube22
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube23
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube24
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube25
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube26
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube32
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube33
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube34
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube54
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube55
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube56
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube58
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube60
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube66
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube69
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube201
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube205
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:jaw
+        weight: 1
+      - path: Fang_Final:skel_G
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3/Fang_Final:L_hand_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1/Fang_Final:L_hand_4 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck/Fang_Final:joint5
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3/Fang_Final:L_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3/Fang_Final:R_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: block
+      takeName: Take 001
+      firstFrame: 89
+      lastFrame: 110
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Fang_Final:ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:L_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:eyes_ctrl_G/Fang_Final:eyes_ctrl/Fang_Final:R_eye_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:cheek_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:face_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:jaw_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:L_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:lwlip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:M_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:mouth_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:nose_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_brow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:R_lid_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:tongue_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:facial_ctrl_G/Fang_Final:facial_nest/Fang_Final:uplip_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_arm_ctrl_G/Fang_Final:L_hand_gimbal_ctrl_G/Fang_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_arm_ctrl_GG/Fang_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_foot_gimbal_ctrl_G/Fang_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:L_leg_ctrl_GG/Fang_Final:L_leg_ctrl_G/Fang_Final:L_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_elbow_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_arm_ctrl_G/Fang_Final:R_hand_gimbal_ctrl_G/Fang_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_arm_ctrl_GG/Fang_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_foot_gimbal_ctrl_G/Fang_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:R_leg_ctrl_GG/Fang_Final:R_leg_ctrl_G/Fang_Final:R_knee_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:chest_ctrl_G/Fang_Final:chest_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:head_ctrl_G/Fang_Final:head_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:root_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:ctrl_GG/Fang_Final:spine_ctrl_G/Fang_Final:waist_ctrl_G/Fang_Final:waist_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl
+        weight: 1
+      - path: Fang_Final:ctrl_G/Fang_Final:transform_ctrl/Fang_Final:visibility_ctrl
+        weight: 1
+      - path: Fang_Final:dontouch_G
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster1Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster2Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster3Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:cluster4Handle
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle1
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle2
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle3
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle4
+        weight: 1
+      - path: Fang_Final:dontouch_G/Fang_Final:ikHandle5
+        weight: 1
+      - path: Fang_Final:geo_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:L_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:arms_G/Fang_Final:R_hand
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:belt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:jacket_mesh
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:pants
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:casual_G/Fang_Final:Fang_Final:shirt
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:head
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_shoe1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:L_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_leg
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:body_G/Fang_Final:Fang_Final:legs_G/Fang_Final:Fang_Final:R_sock
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyebrow
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Cornea
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:Iris
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:pupil
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:L_eye_G/Fang_Final:Fang_Final:white
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Cornea
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:Iris
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:pupil
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:eyes_G/Fang_Final:Fang_Final:R_eye_G/Fang_Final:Fang_Final:white
+          1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:pCylinder12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:glasses/Fang_Final:Fang_Final:spec_frame
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube1
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube2
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube3
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube4
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube5
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube6
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube8
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube9
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube10
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube11
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube12
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube13
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube14
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube16
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube17
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube18
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube20
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube21
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube22
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube23
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube24
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube25
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube26
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube32
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube33
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube34
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube54
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube55
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube56
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube58
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube60
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube66
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube69
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube201
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:hair_G/Fang_Final:Fang_Final:pCube205
+        weight: 1
+      - path: Fang_Final:geo_G/Fang_Final:mesh_G/Fang_Final:head_G/Fang_Final:Fang_Final:jaw
+        weight: 1
+      - path: Fang_Final:skel_G
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_1/Fang_Final:L_hand_2/Fang_Final:L_hand_3/Fang_Final:L_hand_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:L_hand_9/Fang_Final:L_hand_2
+          1/Fang_Final:L_hand_3 1/Fang_Final:L_hand_4 1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:body/Fang_Final:chest_/Fang_Final:neck/Fang_Final:joint5
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:L_leg_1/Fang_Final:L_leg_2/Fang_Final:L_leg_3/Fang_Final:L_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:core/Fang_Final:R_leg_1/Fang_Final:R_leg_2/Fang_Final:R_leg_3/Fang_Final:R_leg_4
+        weight: 1
+      - path: Fang_Final:skel_G/Fang_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

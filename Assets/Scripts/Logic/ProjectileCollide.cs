@@ -16,13 +16,13 @@ public class ProjectileCollide : MonoBehaviour {
 	}
 
 	void OnTriggerEnter (Collider Other) {
-		Debug.Log ("On trigger enter");
+		//Debug.Log ("On trigger enter");
 
 		Other.gameObject.GetComponent<ARScript> ().ReducePlayerHealth (projectileDamage);
 
 		//if (Other.gameObject.tag == "Ally" && gameObject.tag == "Enemy") {
 		if (Other.gameObject.tag == "Ally") {
-			Debug.Log ("Projectile hentam Ally");
+			//Debug.Log ("Projectile hentam Ally");
 
 			/*
 			if (Other.gameObject.name == "Angin")

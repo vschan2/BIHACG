@@ -1,0 +1,1633 @@
+fileFormatVersion: 2
+guid: 31d16d0fb23a1fc40b9a2884069d4287
+timeCreated: 1489051431
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BBB_Taufan_Final:back_c
+    100002: BBB_Taufan_Final:basic_G
+    100004: BBB_Taufan_Final:BBB_Taufan_G
+    100006: BBB_Taufan_Final:body
+    100008: BBB_Taufan_Final:body_G
+    100010: BBB_Taufan_Final:body_wind
+    100012: BBB_Taufan_Final:body_wind3
+    100014: BBB_Taufan_Final:cap
+    100016: BBB_Taufan_Final:cap_teeth1
+    100018: BBB_Taufan_Final:cap_teeth2
+    100020: BBB_Taufan_Final:cap_wind
+    100022: BBB_Taufan_Final:chest_
+    100024: BBB_Taufan_Final:cluster3Handle
+    100026: BBB_Taufan_Final:core
+    100028: BBB_Taufan_Final:dontouch_G
+    100030: BBB_Taufan_Final:earthShirt
+    100032: BBB_Taufan_Final:eyes_G
+    100034: BBB_Taufan_Final:geo_G
+    100036: BBB_Taufan_Final:group6
+    100038: BBB_Taufan_Final:hair
+    100040: BBB_Taufan_Final:hair_G
+    100042: BBB_Taufan_Final:hands_G
+    100044: BBB_Taufan_Final:head
+    100046: BBB_Taufan_Final:head_G
+    100048: BBB_Taufan_Final:hovervoard_G
+    100050: BBB_Taufan_Final:ikHandle1
+    100052: BBB_Taufan_Final:ikHandle2
+    100054: BBB_Taufan_Final:ikHandle3
+    100056: BBB_Taufan_Final:ikHandle4
+    100058: BBB_Taufan_Final:ikHandle5
+    100060: BBB_Taufan_Final:jacket_wind
+    100062: BBB_Taufan_Final:jaw
+    100064: BBB_Taufan_Final:joint5
+    100066: BBB_Taufan_Final:L_eye
+    100068: BBB_Taufan_Final:L_eye_G
+    100070: BBB_Taufan_Final:L_hand
+    100072: BBB_Taufan_Final:L_hand_1
+    100074: BBB_Taufan_Final:L_hand_2
+    100076: BBB_Taufan_Final:L_hand_3
+    100078: BBB_Taufan_Final:L_hand_4
+    100080: BBB_Taufan_Final:L_iris
+    100082: BBB_Taufan_Final:L_leg
+    100084: BBB_Taufan_Final:L_leg_1
+    100086: BBB_Taufan_Final:L_leg_2
+    100088: BBB_Taufan_Final:L_leg_3
+    100090: BBB_Taufan_Final:L_leg_4
+    100092: BBB_Taufan_Final:L_shoe
+    100094: BBB_Taufan_Final:mesh_G
+    100096: BBB_Taufan_Final:neck
+    100098: BBB_Taufan_Final:pants
+    100100: BBB_Taufan_Final:pCube10
+    100102: BBB_Taufan_Final:pCube11
+    100104: BBB_Taufan_Final:pCube12
+    100106: BBB_Taufan_Final:pCube13
+    100108: BBB_Taufan_Final:pCube23
+    100110: BBB_Taufan_Final:pCube24
+    100112: BBB_Taufan_Final:pCube25
+    100114: BBB_Taufan_Final:pCube26
+    100116: BBB_Taufan_Final:pCube27
+    100118: BBB_Taufan_Final:pCube28
+    100120: BBB_Taufan_Final:pCube29
+    100122: BBB_Taufan_Final:pCube32
+    100124: BBB_Taufan_Final:pCube6
+    100126: BBB_Taufan_Final:pCube7
+    100128: BBB_Taufan_Final:pCube8
+    100130: BBB_Taufan_Final:pCube9
+    100132: BBB_Taufan_Final:pCylinder2
+    100134: BBB_Taufan_Final:pCylinder3
+    100136: BBB_Taufan_Final:polySurface1
+    100138: BBB_Taufan_Final:polySurface10
+    100140: BBB_Taufan_Final:polySurface27
+    100142: BBB_Taufan_Final:polySurface3
+    100144: BBB_Taufan_Final:polySurface4
+    100146: BBB_Taufan_Final:polySurface9
+    100148: BBB_Taufan_Final:pPipe6
+    100150: BBB_Taufan_Final:pPipe7
+    100152: BBB_Taufan_Final:pPipe8
+    100154: BBB_Taufan_Final:R_eye
+    100156: BBB_Taufan_Final:R_eye_G
+    100158: BBB_Taufan_Final:R_hand
+    100160: BBB_Taufan_Final:R_hand_1
+    100162: BBB_Taufan_Final:R_hand_2
+    100164: BBB_Taufan_Final:R_hand_3
+    100166: BBB_Taufan_Final:R_hand_4
+    100168: BBB_Taufan_Final:r_iris
+    100170: BBB_Taufan_Final:R_leg
+    100172: BBB_Taufan_Final:R_leg_1
+    100174: BBB_Taufan_Final:R_leg_2
+    100176: BBB_Taufan_Final:R_leg_3
+    100178: BBB_Taufan_Final:R_leg_4
+    100180: BBB_Taufan_Final:R_shoe
+    100182: BBB_Taufan_Final:R_watchead
+    100184: BBB_Taufan_Final:skel_G
+    100186: BBB_Taufan_Final:Watch_Wind_G
+    100188: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+    100190: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1 1
+    100192: BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+    100194: BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+    100196: BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+    100198: BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+    100200: BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+    100202: BBB_Taufan_Final:wind_set
+    100204: BBB_Taufan_Final:wind_shoe_G
+    100206: BBB_Taufan_Final:zazas_zip
+    100208: //RootNode
+    100210: persp1
+    400000: BBB_Taufan_Final:back_c
+    400002: BBB_Taufan_Final:basic_G
+    400004: BBB_Taufan_Final:BBB_Taufan_G
+    400006: BBB_Taufan_Final:body
+    400008: BBB_Taufan_Final:body_G
+    400010: BBB_Taufan_Final:body_wind
+    400012: BBB_Taufan_Final:body_wind3
+    400014: BBB_Taufan_Final:cap
+    400016: BBB_Taufan_Final:cap_teeth1
+    400018: BBB_Taufan_Final:cap_teeth2
+    400020: BBB_Taufan_Final:cap_wind
+    400022: BBB_Taufan_Final:chest_
+    400024: BBB_Taufan_Final:cluster3Handle
+    400026: BBB_Taufan_Final:core
+    400028: BBB_Taufan_Final:dontouch_G
+    400030: BBB_Taufan_Final:earthShirt
+    400032: BBB_Taufan_Final:eyes_G
+    400034: BBB_Taufan_Final:geo_G
+    400036: BBB_Taufan_Final:group6
+    400038: BBB_Taufan_Final:hair
+    400040: BBB_Taufan_Final:hair_G
+    400042: BBB_Taufan_Final:hands_G
+    400044: BBB_Taufan_Final:head
+    400046: BBB_Taufan_Final:head_G
+    400048: BBB_Taufan_Final:hovervoard_G
+    400050: BBB_Taufan_Final:ikHandle1
+    400052: BBB_Taufan_Final:ikHandle2
+    400054: BBB_Taufan_Final:ikHandle3
+    400056: BBB_Taufan_Final:ikHandle4
+    400058: BBB_Taufan_Final:ikHandle5
+    400060: BBB_Taufan_Final:jacket_wind
+    400062: BBB_Taufan_Final:jaw
+    400064: BBB_Taufan_Final:joint5
+    400066: BBB_Taufan_Final:L_eye
+    400068: BBB_Taufan_Final:L_eye_G
+    400070: BBB_Taufan_Final:L_hand
+    400072: BBB_Taufan_Final:L_hand_1
+    400074: BBB_Taufan_Final:L_hand_2
+    400076: BBB_Taufan_Final:L_hand_3
+    400078: BBB_Taufan_Final:L_hand_4
+    400080: BBB_Taufan_Final:L_iris
+    400082: BBB_Taufan_Final:L_leg
+    400084: BBB_Taufan_Final:L_leg_1
+    400086: BBB_Taufan_Final:L_leg_2
+    400088: BBB_Taufan_Final:L_leg_3
+    400090: BBB_Taufan_Final:L_leg_4
+    400092: BBB_Taufan_Final:L_shoe
+    400094: BBB_Taufan_Final:mesh_G
+    400096: BBB_Taufan_Final:neck
+    400098: BBB_Taufan_Final:pants
+    400100: BBB_Taufan_Final:pCube10
+    400102: BBB_Taufan_Final:pCube11
+    400104: BBB_Taufan_Final:pCube12
+    400106: BBB_Taufan_Final:pCube13
+    400108: BBB_Taufan_Final:pCube23
+    400110: BBB_Taufan_Final:pCube24
+    400112: BBB_Taufan_Final:pCube25
+    400114: BBB_Taufan_Final:pCube26
+    400116: BBB_Taufan_Final:pCube27
+    400118: BBB_Taufan_Final:pCube28
+    400120: BBB_Taufan_Final:pCube29
+    400122: BBB_Taufan_Final:pCube32
+    400124: BBB_Taufan_Final:pCube6
+    400126: BBB_Taufan_Final:pCube7
+    400128: BBB_Taufan_Final:pCube8
+    400130: BBB_Taufan_Final:pCube9
+    400132: BBB_Taufan_Final:pCylinder2
+    400134: BBB_Taufan_Final:pCylinder3
+    400136: BBB_Taufan_Final:polySurface1
+    400138: BBB_Taufan_Final:polySurface10
+    400140: BBB_Taufan_Final:polySurface27
+    400142: BBB_Taufan_Final:polySurface3
+    400144: BBB_Taufan_Final:polySurface4
+    400146: BBB_Taufan_Final:polySurface9
+    400148: BBB_Taufan_Final:pPipe6
+    400150: BBB_Taufan_Final:pPipe7
+    400152: BBB_Taufan_Final:pPipe8
+    400154: BBB_Taufan_Final:R_eye
+    400156: BBB_Taufan_Final:R_eye_G
+    400158: BBB_Taufan_Final:R_hand
+    400160: BBB_Taufan_Final:R_hand_1
+    400162: BBB_Taufan_Final:R_hand_2
+    400164: BBB_Taufan_Final:R_hand_3
+    400166: BBB_Taufan_Final:R_hand_4
+    400168: BBB_Taufan_Final:r_iris
+    400170: BBB_Taufan_Final:R_leg
+    400172: BBB_Taufan_Final:R_leg_1
+    400174: BBB_Taufan_Final:R_leg_2
+    400176: BBB_Taufan_Final:R_leg_3
+    400178: BBB_Taufan_Final:R_leg_4
+    400180: BBB_Taufan_Final:R_shoe
+    400182: BBB_Taufan_Final:R_watchead
+    400184: BBB_Taufan_Final:skel_G
+    400186: BBB_Taufan_Final:Watch_Wind_G
+    400188: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+    400190: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1 1
+    400192: BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+    400194: BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+    400196: BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+    400198: BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+    400200: BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+    400202: BBB_Taufan_Final:wind_set
+    400204: BBB_Taufan_Final:wind_shoe_G
+    400206: BBB_Taufan_Final:zazas_zip
+    400208: //RootNode
+    400210: persp1
+    2300000: BBB_Taufan_Final:body_wind3
+    2300002: BBB_Taufan_Final:cap
+    2300004: BBB_Taufan_Final:cap_teeth1
+    2300006: BBB_Taufan_Final:cap_teeth2
+    2300008: BBB_Taufan_Final:hair
+    2300010: BBB_Taufan_Final:jaw
+    2300012: BBB_Taufan_Final:L_eye
+    2300014: BBB_Taufan_Final:L_iris
+    2300016: BBB_Taufan_Final:pCube10
+    2300018: BBB_Taufan_Final:pCube11
+    2300020: BBB_Taufan_Final:pCube12
+    2300022: BBB_Taufan_Final:pCube13
+    2300024: BBB_Taufan_Final:pCube23
+    2300026: BBB_Taufan_Final:pCube24
+    2300028: BBB_Taufan_Final:pCube25
+    2300030: BBB_Taufan_Final:pCube26
+    2300032: BBB_Taufan_Final:pCube27
+    2300034: BBB_Taufan_Final:pCube28
+    2300036: BBB_Taufan_Final:pCube29
+    2300038: BBB_Taufan_Final:pCube6
+    2300040: BBB_Taufan_Final:pCube7
+    2300042: BBB_Taufan_Final:pCube8
+    2300044: BBB_Taufan_Final:pCube9
+    2300046: BBB_Taufan_Final:R_eye
+    2300048: BBB_Taufan_Final:r_iris
+    2300050: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+    2300052: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1 1
+    2300054: BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+    2300056: BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+    2300058: BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+    3300000: BBB_Taufan_Final:body_wind3
+    3300002: BBB_Taufan_Final:cap
+    3300004: BBB_Taufan_Final:cap_teeth1
+    3300006: BBB_Taufan_Final:cap_teeth2
+    3300008: BBB_Taufan_Final:hair
+    3300010: BBB_Taufan_Final:jaw
+    3300012: BBB_Taufan_Final:L_eye
+    3300014: BBB_Taufan_Final:L_iris
+    3300016: BBB_Taufan_Final:pCube10
+    3300018: BBB_Taufan_Final:pCube11
+    3300020: BBB_Taufan_Final:pCube12
+    3300022: BBB_Taufan_Final:pCube13
+    3300024: BBB_Taufan_Final:pCube23
+    3300026: BBB_Taufan_Final:pCube24
+    3300028: BBB_Taufan_Final:pCube25
+    3300030: BBB_Taufan_Final:pCube26
+    3300032: BBB_Taufan_Final:pCube27
+    3300034: BBB_Taufan_Final:pCube28
+    3300036: BBB_Taufan_Final:pCube29
+    3300038: BBB_Taufan_Final:pCube6
+    3300040: BBB_Taufan_Final:pCube7
+    3300042: BBB_Taufan_Final:pCube8
+    3300044: BBB_Taufan_Final:pCube9
+    3300046: BBB_Taufan_Final:R_eye
+    3300048: BBB_Taufan_Final:r_iris
+    3300050: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+    3300052: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1 1
+    3300054: BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+    3300056: BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+    3300058: BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+    4300000: BBB_Taufan_Final:L_hand
+    4300002: BBB_Taufan_Final:R_hand
+    4300004: BBB_Taufan_Final:pPipe6
+    4300006: BBB_Taufan_Final:pPipe7
+    4300008: BBB_Taufan_Final:pPipe8
+    4300010: BBB_Taufan_Final:polySurface1
+    4300012: BBB_Taufan_Final:pCylinder2
+    4300014: BBB_Taufan_Final:pCylinder3
+    4300016: BBB_Taufan_Final:polySurface3
+    4300018: BBB_Taufan_Final:polySurface4
+    4300020: BBB_Taufan_Final:polySurface9
+    4300022: BBB_Taufan_Final:body_wind
+    4300024: BBB_Taufan_Final:pCube32
+    4300026: BBB_Taufan_Final:polySurface10
+    4300028: BBB_Taufan_Final:polySurface27
+    4300030: BBB_Taufan_Final:earthShirt
+    4300032: BBB_Taufan_Final:L_shoe
+    4300034: BBB_Taufan_Final:R_shoe
+    4300036: BBB_Taufan_Final:head
+    4300038: BBB_Taufan_Final:pants
+    4300040: BBB_Taufan_Final:R_leg
+    4300042: BBB_Taufan_Final:L_leg
+    4300044: BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+    4300046: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+    4300048: BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+    4300050: BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+    4300052: BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+    4300054: BBB_Taufan_Final:L_eye
+    4300056: BBB_Taufan_Final:L_iris
+    4300058: BBB_Taufan_Final:R_eye
+    4300060: BBB_Taufan_Final:r_iris
+    4300062: BBB_Taufan_Final:jaw
+    4300064: BBB_Taufan_Final:hair
+    4300066: BBB_Taufan_Final:pCube13
+    4300068: BBB_Taufan_Final:pCube12
+    4300070: BBB_Taufan_Final:pCube11
+    4300072: BBB_Taufan_Final:pCube10
+    4300074: BBB_Taufan_Final:pCube9
+    4300076: BBB_Taufan_Final:pCube8
+    4300078: BBB_Taufan_Final:pCube7
+    4300080: BBB_Taufan_Final:pCube6
+    4300082: BBB_Taufan_Final:pCube23
+    4300084: BBB_Taufan_Final:pCube24
+    4300086: BBB_Taufan_Final:pCube25
+    4300088: BBB_Taufan_Final:pCube26
+    4300090: BBB_Taufan_Final:pCube27
+    4300092: BBB_Taufan_Final:pCube28
+    4300094: BBB_Taufan_Final:pCube29
+    4300096: BBB_Taufan_Final:cap_teeth1
+    4300098: BBB_Taufan_Final:cap_teeth2
+    4300100: BBB_Taufan_Final:cap
+    4300102: BBB_Taufan_Final:body_wind3
+    7400000: stand
+    7400002: run
+    7400004: charge
+    7400006: attack
+    7400008: block
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: BBB_Taufan_Final:body_wind
+    13700002: BBB_Taufan_Final:earthShirt
+    13700004: BBB_Taufan_Final:head
+    13700006: BBB_Taufan_Final:L_hand
+    13700008: BBB_Taufan_Final:L_leg
+    13700010: BBB_Taufan_Final:L_shoe
+    13700012: BBB_Taufan_Final:pants
+    13700014: BBB_Taufan_Final:pCube32
+    13700016: BBB_Taufan_Final:pCylinder2
+    13700018: BBB_Taufan_Final:pCylinder3
+    13700020: BBB_Taufan_Final:polySurface1
+    13700022: BBB_Taufan_Final:polySurface10
+    13700024: BBB_Taufan_Final:polySurface27
+    13700026: BBB_Taufan_Final:polySurface3
+    13700028: BBB_Taufan_Final:polySurface4
+    13700030: BBB_Taufan_Final:polySurface9
+    13700032: BBB_Taufan_Final:pPipe6
+    13700034: BBB_Taufan_Final:pPipe7
+    13700036: BBB_Taufan_Final:pPipe8
+    13700038: BBB_Taufan_Final:R_hand
+    13700040: BBB_Taufan_Final:R_leg
+    13700042: BBB_Taufan_Final:R_shoe
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:back_c
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:earthShirt
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:L_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:R_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:L_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:R_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:head
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:L_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:pants
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:R_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:body_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:pCube32
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:polySurface9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:zazas_zip
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+          1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3/BBB_Taufan_Final:L_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:body_wind3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:R_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:r_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:hair
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube11
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube12
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube13
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube23
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube24
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube25
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube26
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube28
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube29
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:jaw
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:joint5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3/BBB_Taufan_Final:R_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3/BBB_Taufan_Final:L_leg_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3/BBB_Taufan_Final:R_leg_4
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:back_c
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:earthShirt
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:L_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:R_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:L_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:R_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:head
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:L_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:pants
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:R_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:body_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:pCube32
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:polySurface9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:zazas_zip
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+          1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3/BBB_Taufan_Final:L_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:body_wind3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:R_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:r_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:hair
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube11
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube12
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube13
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube23
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube24
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube25
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube26
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube28
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube29
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:jaw
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:joint5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3/BBB_Taufan_Final:R_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3/BBB_Taufan_Final:L_leg_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3/BBB_Taufan_Final:R_leg_4
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 78
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:back_c
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:earthShirt
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:L_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:R_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:L_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:R_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:head
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:L_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:pants
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:R_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:body_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:pCube32
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:polySurface9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:zazas_zip
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+          1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3/BBB_Taufan_Final:L_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:body_wind3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:R_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:r_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:hair
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube11
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube12
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube13
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube23
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube24
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube25
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube26
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube28
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube29
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:jaw
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:joint5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3/BBB_Taufan_Final:R_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3/BBB_Taufan_Final:L_leg_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3/BBB_Taufan_Final:R_leg_4
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 104
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:back_c
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:earthShirt
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:L_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:R_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:L_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:R_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:head
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:L_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:pants
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:R_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:body_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:pCube32
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:polySurface9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:zazas_zip
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+          1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3/BBB_Taufan_Final:L_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:body_wind3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:R_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:r_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:hair
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube11
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube12
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube13
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube23
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube24
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube25
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube26
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube28
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube29
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:jaw
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:joint5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3/BBB_Taufan_Final:R_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3/BBB_Taufan_Final:L_leg_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3/BBB_Taufan_Final:R_leg_4
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: block
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 125
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:back_c
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:cluster3Handle
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:dontouch_G/BBB_Taufan_Final:ikHandle5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:earthShirt
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:L_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:basic_G/BBB_Taufan_Final:wind_shoe_G/BBB_Taufan_Final:R_shoe
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:L_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:R_hand
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:pPipe8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:pCylinder3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:hands_G/BBB_Taufan_Final:Watch_Wind_G/BBB_Taufan_Final:R_watchead/BBB_Taufan_Final:polySurface4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:head
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:L_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:pants
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:R_leg
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:group6/BBB_Taufan_Final:polySurface27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:body_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:pCube32
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:polySurface9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:body_G/BBB_Taufan_Final:wind_set/BBB_Taufan_Final:jacket_wind/BBB_Taufan_Final:zazas_zip
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPipe1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:pPlane6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterBack_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:geo_G/BBB_Taufan_Final:mesh_G/BBB_Taufan_Final:hovervoard_G/BBB_Taufan_Final:wind_hoverboard_tex:thrusterFront_G/BBB_Taufan_Final:wind_hoverboard_tex:pCylinder1
+          1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:L_hand_1/BBB_Taufan_Final:L_hand_2/BBB_Taufan_Final:L_hand_3/BBB_Taufan_Final:L_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:body_wind3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:cap_wind/BBB_Taufan_Final:cap_teeth2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:L_eye_G/BBB_Taufan_Final:L_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:R_eye
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:eyes_G/BBB_Taufan_Final:R_eye_G/BBB_Taufan_Final:r_iris
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:hair
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube6
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube7
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube8
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube9
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube10
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube11
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube12
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube13
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube23
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube24
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube25
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube26
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube27
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube28
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:hair_G/BBB_Taufan_Final:pCube29
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:head_G/BBB_Taufan_Final:jaw
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:neck/BBB_Taufan_Final:joint5
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:body/BBB_Taufan_Final:chest_/BBB_Taufan_Final:R_hand_1/BBB_Taufan_Final:R_hand_2/BBB_Taufan_Final:R_hand_3/BBB_Taufan_Final:R_hand_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:L_leg_1/BBB_Taufan_Final:L_leg_2/BBB_Taufan_Final:L_leg_3/BBB_Taufan_Final:L_leg_4
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3
+        weight: 1
+      - path: BBB_Taufan_Final:BBB_Taufan_G/BBB_Taufan_Final:skel_G/BBB_Taufan_Final:core/BBB_Taufan_Final:R_leg_1/BBB_Taufan_Final:R_leg_2/BBB_Taufan_Final:R_leg_3/BBB_Taufan_Final:R_leg_4
+        weight: 1
+      - path: persp1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

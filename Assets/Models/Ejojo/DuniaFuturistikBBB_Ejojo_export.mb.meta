@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: fbc43851bf5daad4f8cc79edfa7ae02f
+timeCreated: 1489051459
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Ejojo_Final:body
+    100004: Ejojo_Final:body_G
+    100006: Ejojo_Final:chest_
+    100008: Ejojo_Final:chest_ctrl
+    100010: Ejojo_Final:chest_ctrl_G
+    100012: Ejojo_Final:cluster1Handle
+    100014: Ejojo_Final:cluster2Handle
+    100016: Ejojo_Final:cluster3Handle
+    100018: Ejojo_Final:cluster4Handle
+    100020: Ejojo_Final:core
+    100022: Ejojo_Final:Ctrl_G
+    100024: Ejojo_Final:ctrl_G
+    100026: Ejojo_Final:ctrl_GG
+    100028: Ejojo_Final:curve1
+    100030: Ejojo_Final:dontouch_G
+    100032: Ejojo_Final:Ejojo_Final:bag_G
+    100034: Ejojo_Final:Ejojo_Final:belt_G
+    100036: Ejojo_Final:Ejojo_Final:eye_G
+    100038: Ejojo_Final:Ejojo_Final:flash_sphere
+    100040: Ejojo_Final:Ejojo_Final:Head
+    100042: Ejojo_Final:Ejojo_Final:highCollar
+    100044: Ejojo_Final:Ejojo_Final:jaw
+    100046: Ejojo_Final:Ejojo_Final:L_bicep
+    100048: Ejojo_Final:Ejojo_Final:L_eye
+    100050: Ejojo_Final:Ejojo_Final:L_eye1
+    100052: Ejojo_Final:Ejojo_Final:L_eye2
+    100054: Ejojo_Final:Ejojo_Final:L_eye4
+    100056: Ejojo_Final:Ejojo_Final:L_eye_G
+    100058: Ejojo_Final:Ejojo_Final:L_foot_G
+    100060: Ejojo_Final:Ejojo_Final:L_tangan_G
+    100062: Ejojo_Final:Ejojo_Final:pants
+    100064: Ejojo_Final:Ejojo_Final:pCube11
+    100066: Ejojo_Final:Ejojo_Final:pCube12
+    100068: Ejojo_Final:Ejojo_Final:pCube16
+    100070: Ejojo_Final:Ejojo_Final:pCube17
+    100072: Ejojo_Final:Ejojo_Final:pCube2
+    100074: Ejojo_Final:Ejojo_Final:pCube21
+    100076: Ejojo_Final:Ejojo_Final:pCube22
+    100078: Ejojo_Final:Ejojo_Final:pCube32
+    100080: Ejojo_Final:Ejojo_Final:pCube33
+    100082: Ejojo_Final:Ejojo_Final:pCube38
+    100084: Ejojo_Final:Ejojo_Final:pCube39
+    100086: Ejojo_Final:Ejojo_Final:pCube4
+    100088: Ejojo_Final:Ejojo_Final:pCube5
+    100090: Ejojo_Final:Ejojo_Final:pCube6
+    100092: Ejojo_Final:Ejojo_Final:pCylinder1
+    100094: Ejojo_Final:Ejojo_Final:pCylinder2
+    100096: Ejojo_Final:Ejojo_Final:pCylinder3
+    100098: Ejojo_Final:Ejojo_Final:pCylinder4
+    100100: Ejojo_Final:Ejojo_Final:pCylinder5
+    100102: Ejojo_Final:Ejojo_Final:pCylinder6
+    100104: Ejojo_Final:Ejojo_Final:pCylinder7
+    100106: Ejojo_Final:Ejojo_Final:pPipe2
+    100108: Ejojo_Final:Ejojo_Final:pPipe3
+    100110: Ejojo_Final:Ejojo_Final:pPipe4
+    100112: Ejojo_Final:Ejojo_Final:pPipe5
+    100114: Ejojo_Final:Ejojo_Final:pPlane2
+    100116: Ejojo_Final:Ejojo_Final:pSphere1
+    100118: Ejojo_Final:Ejojo_Final:R_arm_G
+    100120: Ejojo_Final:Ejojo_Final:R_eye_G
+    100122: Ejojo_Final:Ejojo_Final:R_foot_G
+    100124: Ejojo_Final:Ejojo_Final:R_handd
+    100126: Ejojo_Final:Ejojo_Final:torso_G
+    100128: Ejojo_Final:Ejojo_Pistol
+    100130: Ejojo_Final:Ejojo_Pistol_tex:Ammo
+    100132: Ejojo_Final:Ejojo_Pistol_tex:group10
+    100134: Ejojo_Final:Ejojo_Pistol_tex:group11
+    100136: Ejojo_Final:Ejojo_Pistol_tex:group8
+    100138: Ejojo_Final:Ejojo_Pistol_tex:group9
+    100140: Ejojo_Final:Ejojo_Pistol_tex:nurbsCircle1
+    100142: Ejojo_Final:Ejojo_Pistol_tex:pCube21
+    100144: Ejojo_Final:Ejojo_Pistol_tex:pCube25
+    100146: Ejojo_Final:Ejojo_Pistol_tex:pCube26
+    100148: Ejojo_Final:Ejojo_Pistol_tex:pCube27
+    100150: Ejojo_Final:Ejojo_Pistol_tex:pCube3
+    100152: Ejojo_Final:Ejojo_Pistol_tex:pCube5
+    100154: Ejojo_Final:Ejojo_Pistol_tex:pCube7
+    100156: Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+    100158: Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+    100160: Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+    100162: Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+    100164: Ejojo_Final:Ejojo_Pistol_tex:Picu
+    100166: Ejojo_Final:eyes_ctrl
+    100168: Ejojo_Final:eyes_ctrl_G
+    100170: Ejojo_Final:geo_G
+    100172: Ejojo_Final:head_ctrl
+    100174: Ejojo_Final:head_ctrl_G
+    100176: Ejojo_Final:head_G
+    100178: Ejojo_Final:ikHandle1
+    100180: Ejojo_Final:ikHandle2
+    100182: Ejojo_Final:ikHandle3
+    100184: Ejojo_Final:ikHandle4
+    100186: Ejojo_Final:ikHandle5
+    100188: Ejojo_Final:joint5
+    100190: Ejojo_Final:L_arm_ctrl_G
+    100192: Ejojo_Final:L_arm_ctrl_GG
+    100194: Ejojo_Final:L_clavicle_ctrl
+    100196: Ejojo_Final:L_elbow_ctrl
+    100198: Ejojo_Final:L_eye_ctrl
+    100200: Ejojo_Final:L_foot_ctrl
+    100202: Ejojo_Final:L_foot_gimbal_ctrl
+    100204: Ejojo_Final:L_foot_gimbal_ctrl_G
+    100206: Ejojo_Final:L_hand_1
+    100208: Ejojo_Final:L_hand_2
+    100210: Ejojo_Final:L_hand_3
+    100212: Ejojo_Final:L_hand_4
+    100214: Ejojo_Final:L_hand_ctrl
+    100216: Ejojo_Final:L_hand_gimbal_ctrl
+    100218: Ejojo_Final:L_hand_gimbal_ctrl_G
+    100220: Ejojo_Final:L_knee_ctrl
+    100222: Ejojo_Final:L_leg_1
+    100224: Ejojo_Final:L_leg_2
+    100226: Ejojo_Final:L_leg_3
+    100228: Ejojo_Final:L_leg_4
+    100230: Ejojo_Final:L_leg_ctrl_G
+    100232: Ejojo_Final:L_leg_ctrl_GG
+    100234: Ejojo_Final:mesh_G
+    100236: Ejojo_Final:mesh_G 1
+    100238: Ejojo_Final:neck
+    100240: Ejojo_Final:pCube12
+    100242: Ejojo_Final:R_arm_ctrl_G
+    100244: Ejojo_Final:R_arm_ctrl_GG
+    100246: Ejojo_Final:R_clavicle_ctrl
+    100248: Ejojo_Final:R_elbow_ctrl
+    100250: Ejojo_Final:R_eye_ctrl
+    100252: Ejojo_Final:R_foot_ctrl
+    100254: Ejojo_Final:R_foot_gimbal_ctrl
+    100256: Ejojo_Final:R_foot_gimbal_ctrl_G
+    100258: Ejojo_Final:R_hand_1
+    100260: Ejojo_Final:R_hand_2
+    100262: Ejojo_Final:R_hand_3
+    100264: Ejojo_Final:R_hand_4
+    100266: Ejojo_Final:R_hand_ctrl
+    100268: Ejojo_Final:R_hand_gimbal_ctrl
+    100270: Ejojo_Final:R_hand_gimbal_ctrl_G
+    100272: Ejojo_Final:R_knee_ctrl
+    100274: Ejojo_Final:R_leg_1
+    100276: Ejojo_Final:R_leg_2
+    100278: Ejojo_Final:R_leg_3
+    100280: Ejojo_Final:R_leg_4
+    100282: Ejojo_Final:R_leg_ctrl_G
+    100284: Ejojo_Final:R_leg_ctrl_GG
+    100286: Ejojo_Final:root_ctrl
+    100288: Ejojo_Final:skel_G
+    100290: Ejojo_Final:spine_ctrl_G
+    100292: Ejojo_Final:transform_ctrl
+    100294: Ejojo_Final:visibility_ctrl
+    100296: Ejojo_Final:waist_ctrl
+    100298: Ejojo_Final:waist_ctrl_G
+    400000: //RootNode
+    400002: Ejojo_Final:body
+    400004: Ejojo_Final:body_G
+    400006: Ejojo_Final:chest_
+    400008: Ejojo_Final:chest_ctrl
+    400010: Ejojo_Final:chest_ctrl_G
+    400012: Ejojo_Final:cluster1Handle
+    400014: Ejojo_Final:cluster2Handle
+    400016: Ejojo_Final:cluster3Handle
+    400018: Ejojo_Final:cluster4Handle
+    400020: Ejojo_Final:core
+    400022: Ejojo_Final:Ctrl_G
+    400024: Ejojo_Final:ctrl_G
+    400026: Ejojo_Final:ctrl_GG
+    400028: Ejojo_Final:curve1
+    400030: Ejojo_Final:dontouch_G
+    400032: Ejojo_Final:Ejojo_Final:bag_G
+    400034: Ejojo_Final:Ejojo_Final:belt_G
+    400036: Ejojo_Final:Ejojo_Final:eye_G
+    400038: Ejojo_Final:Ejojo_Final:flash_sphere
+    400040: Ejojo_Final:Ejojo_Final:Head
+    400042: Ejojo_Final:Ejojo_Final:highCollar
+    400044: Ejojo_Final:Ejojo_Final:jaw
+    400046: Ejojo_Final:Ejojo_Final:L_bicep
+    400048: Ejojo_Final:Ejojo_Final:L_eye
+    400050: Ejojo_Final:Ejojo_Final:L_eye1
+    400052: Ejojo_Final:Ejojo_Final:L_eye2
+    400054: Ejojo_Final:Ejojo_Final:L_eye4
+    400056: Ejojo_Final:Ejojo_Final:L_eye_G
+    400058: Ejojo_Final:Ejojo_Final:L_foot_G
+    400060: Ejojo_Final:Ejojo_Final:L_tangan_G
+    400062: Ejojo_Final:Ejojo_Final:pants
+    400064: Ejojo_Final:Ejojo_Final:pCube11
+    400066: Ejojo_Final:Ejojo_Final:pCube12
+    400068: Ejojo_Final:Ejojo_Final:pCube16
+    400070: Ejojo_Final:Ejojo_Final:pCube17
+    400072: Ejojo_Final:Ejojo_Final:pCube2
+    400074: Ejojo_Final:Ejojo_Final:pCube21
+    400076: Ejojo_Final:Ejojo_Final:pCube22
+    400078: Ejojo_Final:Ejojo_Final:pCube32
+    400080: Ejojo_Final:Ejojo_Final:pCube33
+    400082: Ejojo_Final:Ejojo_Final:pCube38
+    400084: Ejojo_Final:Ejojo_Final:pCube39
+    400086: Ejojo_Final:Ejojo_Final:pCube4
+    400088: Ejojo_Final:Ejojo_Final:pCube5
+    400090: Ejojo_Final:Ejojo_Final:pCube6
+    400092: Ejojo_Final:Ejojo_Final:pCylinder1
+    400094: Ejojo_Final:Ejojo_Final:pCylinder2
+    400096: Ejojo_Final:Ejojo_Final:pCylinder3
+    400098: Ejojo_Final:Ejojo_Final:pCylinder4
+    400100: Ejojo_Final:Ejojo_Final:pCylinder5
+    400102: Ejojo_Final:Ejojo_Final:pCylinder6
+    400104: Ejojo_Final:Ejojo_Final:pCylinder7
+    400106: Ejojo_Final:Ejojo_Final:pPipe2
+    400108: Ejojo_Final:Ejojo_Final:pPipe3
+    400110: Ejojo_Final:Ejojo_Final:pPipe4
+    400112: Ejojo_Final:Ejojo_Final:pPipe5
+    400114: Ejojo_Final:Ejojo_Final:pPlane2
+    400116: Ejojo_Final:Ejojo_Final:pSphere1
+    400118: Ejojo_Final:Ejojo_Final:R_arm_G
+    400120: Ejojo_Final:Ejojo_Final:R_eye_G
+    400122: Ejojo_Final:Ejojo_Final:R_foot_G
+    400124: Ejojo_Final:Ejojo_Final:R_handd
+    400126: Ejojo_Final:Ejojo_Final:torso_G
+    400128: Ejojo_Final:Ejojo_Pistol
+    400130: Ejojo_Final:Ejojo_Pistol_tex:Ammo
+    400132: Ejojo_Final:Ejojo_Pistol_tex:group10
+    400134: Ejojo_Final:Ejojo_Pistol_tex:group11
+    400136: Ejojo_Final:Ejojo_Pistol_tex:group8
+    400138: Ejojo_Final:Ejojo_Pistol_tex:group9
+    400140: Ejojo_Final:Ejojo_Pistol_tex:nurbsCircle1
+    400142: Ejojo_Final:Ejojo_Pistol_tex:pCube21
+    400144: Ejojo_Final:Ejojo_Pistol_tex:pCube25
+    400146: Ejojo_Final:Ejojo_Pistol_tex:pCube26
+    400148: Ejojo_Final:Ejojo_Pistol_tex:pCube27
+    400150: Ejojo_Final:Ejojo_Pistol_tex:pCube3
+    400152: Ejojo_Final:Ejojo_Pistol_tex:pCube5
+    400154: Ejojo_Final:Ejojo_Pistol_tex:pCube7
+    400156: Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+    400158: Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+    400160: Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+    400162: Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+    400164: Ejojo_Final:Ejojo_Pistol_tex:Picu
+    400166: Ejojo_Final:eyes_ctrl
+    400168: Ejojo_Final:eyes_ctrl_G
+    400170: Ejojo_Final:geo_G
+    400172: Ejojo_Final:head_ctrl
+    400174: Ejojo_Final:head_ctrl_G
+    400176: Ejojo_Final:head_G
+    400178: Ejojo_Final:ikHandle1
+    400180: Ejojo_Final:ikHandle2
+    400182: Ejojo_Final:ikHandle3
+    400184: Ejojo_Final:ikHandle4
+    400186: Ejojo_Final:ikHandle5
+    400188: Ejojo_Final:joint5
+    400190: Ejojo_Final:L_arm_ctrl_G
+    400192: Ejojo_Final:L_arm_ctrl_GG
+    400194: Ejojo_Final:L_clavicle_ctrl
+    400196: Ejojo_Final:L_elbow_ctrl
+    400198: Ejojo_Final:L_eye_ctrl
+    400200: Ejojo_Final:L_foot_ctrl
+    400202: Ejojo_Final:L_foot_gimbal_ctrl
+    400204: Ejojo_Final:L_foot_gimbal_ctrl_G
+    400206: Ejojo_Final:L_hand_1
+    400208: Ejojo_Final:L_hand_2
+    400210: Ejojo_Final:L_hand_3
+    400212: Ejojo_Final:L_hand_4
+    400214: Ejojo_Final:L_hand_ctrl
+    400216: Ejojo_Final:L_hand_gimbal_ctrl
+    400218: Ejojo_Final:L_hand_gimbal_ctrl_G
+    400220: Ejojo_Final:L_knee_ctrl
+    400222: Ejojo_Final:L_leg_1
+    400224: Ejojo_Final:L_leg_2
+    400226: Ejojo_Final:L_leg_3
+    400228: Ejojo_Final:L_leg_4
+    400230: Ejojo_Final:L_leg_ctrl_G
+    400232: Ejojo_Final:L_leg_ctrl_GG
+    400234: Ejojo_Final:mesh_G
+    400236: Ejojo_Final:mesh_G 1
+    400238: Ejojo_Final:neck
+    400240: Ejojo_Final:pCube12
+    400242: Ejojo_Final:R_arm_ctrl_G
+    400244: Ejojo_Final:R_arm_ctrl_GG
+    400246: Ejojo_Final:R_clavicle_ctrl
+    400248: Ejojo_Final:R_elbow_ctrl
+    400250: Ejojo_Final:R_eye_ctrl
+    400252: Ejojo_Final:R_foot_ctrl
+    400254: Ejojo_Final:R_foot_gimbal_ctrl
+    400256: Ejojo_Final:R_foot_gimbal_ctrl_G
+    400258: Ejojo_Final:R_hand_1
+    400260: Ejojo_Final:R_hand_2
+    400262: Ejojo_Final:R_hand_3
+    400264: Ejojo_Final:R_hand_4
+    400266: Ejojo_Final:R_hand_ctrl
+    400268: Ejojo_Final:R_hand_gimbal_ctrl
+    400270: Ejojo_Final:R_hand_gimbal_ctrl_G
+    400272: Ejojo_Final:R_knee_ctrl
+    400274: Ejojo_Final:R_leg_1
+    400276: Ejojo_Final:R_leg_2
+    400278: Ejojo_Final:R_leg_3
+    400280: Ejojo_Final:R_leg_4
+    400282: Ejojo_Final:R_leg_ctrl_G
+    400284: Ejojo_Final:R_leg_ctrl_GG
+    400286: Ejojo_Final:root_ctrl
+    400288: Ejojo_Final:skel_G
+    400290: Ejojo_Final:spine_ctrl_G
+    400292: Ejojo_Final:transform_ctrl
+    400294: Ejojo_Final:visibility_ctrl
+    400296: Ejojo_Final:waist_ctrl
+    400298: Ejojo_Final:waist_ctrl_G
+    2300000: Ejojo_Final:Ejojo_Final:jaw
+    2300002: Ejojo_Final:Ejojo_Final:L_eye
+    2300004: Ejojo_Final:Ejojo_Final:L_eye1
+    2300006: Ejojo_Final:Ejojo_Final:L_eye2
+    2300008: Ejojo_Final:Ejojo_Final:L_eye4
+    2300010: Ejojo_Final:Ejojo_Pistol_tex:Ammo
+    2300012: Ejojo_Final:Ejojo_Pistol_tex:pCube21
+    2300014: Ejojo_Final:Ejojo_Pistol_tex:pCube25
+    2300016: Ejojo_Final:Ejojo_Pistol_tex:pCube26
+    2300018: Ejojo_Final:Ejojo_Pistol_tex:pCube27
+    2300020: Ejojo_Final:Ejojo_Pistol_tex:pCube3
+    2300022: Ejojo_Final:Ejojo_Pistol_tex:pCube5
+    2300024: Ejojo_Final:Ejojo_Pistol_tex:pCube7
+    2300026: Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+    2300028: Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+    2300030: Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+    2300032: Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+    2300034: Ejojo_Final:Ejojo_Pistol_tex:Picu
+    3300000: Ejojo_Final:Ejojo_Final:jaw
+    3300002: Ejojo_Final:Ejojo_Final:L_eye
+    3300004: Ejojo_Final:Ejojo_Final:L_eye1
+    3300006: Ejojo_Final:Ejojo_Final:L_eye2
+    3300008: Ejojo_Final:Ejojo_Final:L_eye4
+    3300010: Ejojo_Final:Ejojo_Pistol_tex:Ammo
+    3300012: Ejojo_Final:Ejojo_Pistol_tex:pCube21
+    3300014: Ejojo_Final:Ejojo_Pistol_tex:pCube25
+    3300016: Ejojo_Final:Ejojo_Pistol_tex:pCube26
+    3300018: Ejojo_Final:Ejojo_Pistol_tex:pCube27
+    3300020: Ejojo_Final:Ejojo_Pistol_tex:pCube3
+    3300022: Ejojo_Final:Ejojo_Pistol_tex:pCube5
+    3300024: Ejojo_Final:Ejojo_Pistol_tex:pCube7
+    3300026: Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+    3300028: Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+    3300030: Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+    3300032: Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+    3300034: Ejojo_Final:Ejojo_Pistol_tex:Picu
+    4300000: Ejojo_Final:Ejojo_Final:pants
+    4300002: Ejojo_Final:Ejojo_Final:Head
+    4300004: Ejojo_Final:Ejojo_Final:pCylinder1
+    4300006: Ejojo_Final:Ejojo_Final:pPipe2
+    4300008: Ejojo_Final:Ejojo_Final:pCylinder2
+    4300010: Ejojo_Final:Ejojo_Final:pPipe3
+    4300012: Ejojo_Final:Ejojo_Final:L_bicep
+    4300014: Ejojo_Final:Ejojo_Final:pCylinder6
+    4300016: Ejojo_Final:Ejojo_Final:pPipe4
+    4300018: Ejojo_Final:Ejojo_Final:pCylinder7
+    4300020: Ejojo_Final:Ejojo_Final:pPipe5
+    4300022: Ejojo_Final:Ejojo_Final:R_handd
+    4300024: Ejojo_Final:Ejojo_Final:pCylinder3
+    4300026: Ejojo_Final:Ejojo_Final:pCylinder4
+    4300028: Ejojo_Final:Ejojo_Final:pCube6
+    4300030: Ejojo_Final:Ejojo_Final:pCube5
+    4300032: Ejojo_Final:Ejojo_Final:pCube11
+    4300034: Ejojo_Final:Ejojo_Final:pCube12
+    4300036: Ejojo_Final:Ejojo_Final:pCube16
+    4300038: Ejojo_Final:Ejojo_Final:pCube21
+    4300040: Ejojo_Final:Ejojo_Final:pCube22
+    4300042: Ejojo_Final:pCube12
+    4300044: Ejojo_Final:Ejojo_Final:pCube2
+    4300046: Ejojo_Final:Ejojo_Final:pCube4
+    4300048: Ejojo_Final:Ejojo_Final:highCollar
+    4300050: Ejojo_Final:Ejojo_Final:pSphere1
+    4300052: Ejojo_Final:Ejojo_Final:pPlane2
+    4300054: Ejojo_Final:Ejojo_Final:pCylinder5
+    4300056: Ejojo_Final:Ejojo_Final:pCube17
+    4300058: Ejojo_Final:Ejojo_Final:pCube32
+    4300060: Ejojo_Final:Ejojo_Final:pCube33
+    4300062: Ejojo_Final:Ejojo_Final:pCube38
+    4300064: Ejojo_Final:Ejojo_Final:pCube39
+    4300066: Ejojo_Final:Ejojo_Pistol_tex:Ammo
+    4300068: Ejojo_Final:Ejojo_Pistol_tex:Picu
+    4300070: Ejojo_Final:Ejojo_Pistol_tex:pCube25
+    4300072: Ejojo_Final:Ejojo_Pistol_tex:pCube27
+    4300074: Ejojo_Final:Ejojo_Pistol_tex:pCube3
+    4300076: Ejojo_Final:Ejojo_Pistol_tex:pCube7
+    4300078: Ejojo_Final:Ejojo_Pistol_tex:pCube21
+    4300080: Ejojo_Final:Ejojo_Pistol_tex:pCube5
+    4300082: Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+    4300084: Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+    4300086: Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+    4300088: Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+    4300090: Ejojo_Final:Ejojo_Pistol_tex:pCube26
+    4300092: Ejojo_Final:Ejojo_Final:L_eye
+    4300094: Ejojo_Final:Ejojo_Final:L_eye1
+    4300096: Ejojo_Final:Ejojo_Final:L_eye2
+    4300098: Ejojo_Final:Ejojo_Final:L_eye4
+    4300100: Ejojo_Final:Ejojo_Final:jaw
+    7400000: stand
+    7400002: run
+    7400004: attack
+    7400006: block
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Ejojo_Final:Ejojo_Final:Head
+    13700002: Ejojo_Final:Ejojo_Final:highCollar
+    13700004: Ejojo_Final:Ejojo_Final:L_bicep
+    13700006: Ejojo_Final:Ejojo_Final:pants
+    13700008: Ejojo_Final:Ejojo_Final:pCube11
+    13700010: Ejojo_Final:Ejojo_Final:pCube12
+    13700012: Ejojo_Final:Ejojo_Final:pCube16
+    13700014: Ejojo_Final:Ejojo_Final:pCube17
+    13700016: Ejojo_Final:Ejojo_Final:pCube2
+    13700018: Ejojo_Final:Ejojo_Final:pCube21
+    13700020: Ejojo_Final:Ejojo_Final:pCube22
+    13700022: Ejojo_Final:Ejojo_Final:pCube32
+    13700024: Ejojo_Final:Ejojo_Final:pCube33
+    13700026: Ejojo_Final:Ejojo_Final:pCube38
+    13700028: Ejojo_Final:Ejojo_Final:pCube39
+    13700030: Ejojo_Final:Ejojo_Final:pCube4
+    13700032: Ejojo_Final:Ejojo_Final:pCube5
+    13700034: Ejojo_Final:Ejojo_Final:pCube6
+    13700036: Ejojo_Final:Ejojo_Final:pCylinder1
+    13700038: Ejojo_Final:Ejojo_Final:pCylinder2
+    13700040: Ejojo_Final:Ejojo_Final:pCylinder3
+    13700042: Ejojo_Final:Ejojo_Final:pCylinder4
+    13700044: Ejojo_Final:Ejojo_Final:pCylinder5
+    13700046: Ejojo_Final:Ejojo_Final:pCylinder6
+    13700048: Ejojo_Final:Ejojo_Final:pCylinder7
+    13700050: Ejojo_Final:Ejojo_Final:pPipe2
+    13700052: Ejojo_Final:Ejojo_Final:pPipe3
+    13700054: Ejojo_Final:Ejojo_Final:pPipe4
+    13700056: Ejojo_Final:Ejojo_Final:pPipe5
+    13700058: Ejojo_Final:Ejojo_Final:pPlane2
+    13700060: Ejojo_Final:Ejojo_Final:pSphere1
+    13700062: Ejojo_Final:Ejojo_Final:R_handd
+    13700064: Ejojo_Final:pCube12
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ejojo_Final:ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:L_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:R_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G/Ejojo_Final:chest_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G/Ejojo_Final:head_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:root_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G/Ejojo_Final:waist_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl/Ejojo_Final:visibility_ctrl
+        weight: 1
+      - path: Ejojo_Final:dontouch_G
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster1Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster2Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster3Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster4Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle1
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle2
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle3
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle4
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle5
+        weight: 1
+      - path: Ejojo_Final:geo_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube17
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube32
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube33
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube38
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube39
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G/Ejojo_Final:Ejojo_Final:pCylinder5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:Head
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:L_bicep
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:pants
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:R_handd
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube16
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube22
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pPlane2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pSphere1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:highCollar
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G/Ejojo_Final:Ejojo_Pistol_tex:nurbsCircle1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Ammo
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube25
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube27
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11/Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube26
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Picu
+        weight: 1
+      - path: Ejojo_Final:skel_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3/Ejojo_Final:L_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:jaw
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:joint5
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3/Ejojo_Final:R_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3/Ejojo_Final:L_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3/Ejojo_Final:R_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 42
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ejojo_Final:ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:L_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:R_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G/Ejojo_Final:chest_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G/Ejojo_Final:head_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:root_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G/Ejojo_Final:waist_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl/Ejojo_Final:visibility_ctrl
+        weight: 1
+      - path: Ejojo_Final:dontouch_G
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster1Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster2Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster3Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster4Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle1
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle2
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle3
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle4
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle5
+        weight: 1
+      - path: Ejojo_Final:geo_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube17
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube32
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube33
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube38
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube39
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G/Ejojo_Final:Ejojo_Final:pCylinder5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:Head
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:L_bicep
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:pants
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:R_handd
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube16
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube22
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pPlane2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pSphere1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:highCollar
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G/Ejojo_Final:Ejojo_Pistol_tex:nurbsCircle1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Ammo
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube25
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube27
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11/Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube26
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Picu
+        weight: 1
+      - path: Ejojo_Final:skel_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3/Ejojo_Final:L_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:jaw
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:joint5
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3/Ejojo_Final:R_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3/Ejojo_Final:L_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3/Ejojo_Final:R_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 79
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ejojo_Final:ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:L_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:R_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G/Ejojo_Final:chest_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G/Ejojo_Final:head_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:root_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G/Ejojo_Final:waist_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl/Ejojo_Final:visibility_ctrl
+        weight: 1
+      - path: Ejojo_Final:dontouch_G
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster1Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster2Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster3Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster4Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle1
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle2
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle3
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle4
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle5
+        weight: 1
+      - path: Ejojo_Final:geo_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube17
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube32
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube33
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube38
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube39
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G/Ejojo_Final:Ejojo_Final:pCylinder5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:Head
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:L_bicep
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:pants
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:R_handd
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube16
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube22
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pPlane2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pSphere1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:highCollar
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G/Ejojo_Final:Ejojo_Pistol_tex:nurbsCircle1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Ammo
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube25
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube27
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11/Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube26
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Picu
+        weight: 1
+      - path: Ejojo_Final:skel_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3/Ejojo_Final:L_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:jaw
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:joint5
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3/Ejojo_Final:R_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3/Ejojo_Final:L_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3/Ejojo_Final:R_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: block
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 110
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ejojo_Final:ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:L_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:eyes_ctrl_G/Ejojo_Final:eyes_ctrl/Ejojo_Final:R_eye_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_arm_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl_G/Ejojo_Final:L_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_arm_ctrl_GG/Ejojo_Final:L_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl_G/Ejojo_Final:L_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:L_leg_ctrl_GG/Ejojo_Final:L_leg_ctrl_G/Ejojo_Final:L_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_elbow_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_arm_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl_G/Ejojo_Final:R_hand_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_arm_ctrl_GG/Ejojo_Final:R_clavicle_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl_G/Ejojo_Final:R_foot_gimbal_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:R_leg_ctrl_GG/Ejojo_Final:R_leg_ctrl_G/Ejojo_Final:R_knee_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:chest_ctrl_G/Ejojo_Final:chest_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:head_ctrl_G/Ejojo_Final:head_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:root_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:ctrl_GG/Ejojo_Final:spine_ctrl_G/Ejojo_Final:waist_ctrl_G/Ejojo_Final:waist_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl
+        weight: 1
+      - path: Ejojo_Final:ctrl_G/Ejojo_Final:transform_ctrl/Ejojo_Final:visibility_ctrl
+        weight: 1
+      - path: Ejojo_Final:dontouch_G
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster1Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster2Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster3Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:cluster4Handle
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle1
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle2
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle3
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle4
+        weight: 1
+      - path: Ejojo_Final:dontouch_G/Ejojo_Final:ikHandle5
+        weight: 1
+      - path: Ejojo_Final:geo_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube17
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube32
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube33
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube38
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:bag_G/Ejojo_Final:Ejojo_Final:pCube39
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:belt_G/Ejojo_Final:Ejojo_Final:pCylinder5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:Head
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_foot_G/Ejojo_Final:Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:L_bicep
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pCylinder2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:L_tangan_G/Ejojo_Final:Ejojo_Final:pPipe3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:pants
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pCylinder7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:pPipe5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_arm_G/Ejojo_Final:Ejojo_Final:R_handd
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube16
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:Ejojo_Final:pCube22
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:R_foot_G/Ejojo_Final:pCube12
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pPlane2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:flash_sphere/Ejojo_Final:Ejojo_Final:pSphere1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:highCollar
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube2
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:body_G/Ejojo_Final:Ejojo_Final:torso_G/Ejojo_Final:Ejojo_Final:pCube4
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:Ctrl_G/Ejojo_Final:Ejojo_Pistol_tex:nurbsCircle1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Ammo
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube25
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group8/Ejojo_Final:Ejojo_Pistol_tex:pCube27
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder1
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder6
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group10/Ejojo_Final:Ejojo_Pistol_tex:pCylinder8
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:group11/Ejojo_Final:Ejojo_Pistol_tex:pCylinder3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube3
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube5
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube7
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube21
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:group9/Ejojo_Final:Ejojo_Pistol_tex:pCube26
+        weight: 1
+      - path: Ejojo_Final:geo_G/Ejojo_Final:mesh_G/Ejojo_Final:Ejojo_Pistol/Ejojo_Final:mesh_G
+          1/Ejojo_Final:Ejojo_Pistol_tex:Picu
+        weight: 1
+      - path: Ejojo_Final:skel_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:L_hand_1/Ejojo_Final:L_hand_2/Ejojo_Final:L_hand_3/Ejojo_Final:L_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:L_eye_G/Ejojo_Final:Ejojo_Final:L_eye1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:eye_G/Ejojo_Final:Ejojo_Final:R_eye_G/Ejojo_Final:Ejojo_Final:L_eye4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:head_G/Ejojo_Final:Ejojo_Final:jaw
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:neck/Ejojo_Final:joint5
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:body/Ejojo_Final:chest_/Ejojo_Final:R_hand_1/Ejojo_Final:R_hand_2/Ejojo_Final:R_hand_3/Ejojo_Final:R_hand_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:L_leg_1/Ejojo_Final:L_leg_2/Ejojo_Final:L_leg_3/Ejojo_Final:L_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:core/Ejojo_Final:R_leg_1/Ejojo_Final:R_leg_2/Ejojo_Final:R_leg_3/Ejojo_Final:R_leg_4
+        weight: 1
+      - path: Ejojo_Final:skel_G/Ejojo_Final:curve1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

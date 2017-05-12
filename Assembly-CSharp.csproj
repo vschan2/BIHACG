@@ -49,9 +49,11 @@
      <Compile Include="Assets\Resources\Hologram Pyramid\Scripts\Earth.cs" />
      <Compile Include="Assets\Resources\Hologram Pyramid\Scripts\HologramManager.cs" />
      <Compile Include="Assets\Scripts\Logic\ARScript.cs" />
-     <Compile Include="Assets\Scripts\Logic\CharacterManager.cs" />
+     <Compile Include="Assets\Scripts\Logic\GameManager.cs" />
      <Compile Include="Assets\Scripts\Logic\HealthManager.cs" />
      <Compile Include="Assets\Scripts\Logic\ProjectileCollide.cs" />
+     <Compile Include="Assets\Scripts\Scene\Logo.cs" />
+     <Compile Include="Assets\Scripts\Scene\MusicManager.cs" />
      <Compile Include="Assets\Scripts\UI\CameraFacingBillboard.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
@@ -100,13 +102,11 @@
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
      <None Include="Assets\Vuforia\Shaders\DepthMask.shader" />
      <None Include="Assets\Resources\Hologram Pyramid\Docs\ReadMe.txt" />
-     <None Include="Assets\StreamingAssets\QCAR\BIHACG.xml" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
+     <None Include="Assets\Fonts\komika_glaze\Komika.txt" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
+     <None Include="Assets\StreamingAssets\QCAR\BIHACG.xml" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -121,9 +121,6 @@
  </Reference>
  <Reference Include="UnityEngine.HoloLens">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Purchasing">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>

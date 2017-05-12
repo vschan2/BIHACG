@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="bbb_taufan" size="10.000000 14.023438" />
+    <ImageTarget name="bbb_tanah" size="10.000000 14.023438" />
+    <ImageTarget name="bbb_probe" size="10.000000 14.023438" />
+    <ImageTarget name="bbb_petir" size="10.000000 14.023438" />
+    <ImageTarget name="bbb_halilintar" size="10.000000 14.023438" />
+    <ImageTarget name="bbb_fang" size="10.000000 14.023438" />
+    <ImageTarget name="bbb_ejojo" size="10.000000 14.023438" />
     <ImageTarget name="bbb_gempa" size="10.000000 14.023438" />
     <ImageTarget name="bbb_adudu" size="10.000000 14.023438" />
   </Tracking>

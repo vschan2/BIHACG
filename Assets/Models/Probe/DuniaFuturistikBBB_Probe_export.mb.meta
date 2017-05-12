@@ -1,0 +1,2759 @@
+fileFormatVersion: 2
+guid: 2615210ddf1120447b12375ee5c62e66
+timeCreated: 1489051423
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Probe_Final:BEAM
+    100004: Probe_Final:BELOW_PART
+    100006: Probe_Final:bicep1
+    100008: Probe_Final:bicep1 1
+    100010: Probe_Final:claw
+    100012: Probe_Final:claw 1
+    100014: Probe_Final:claw 2
+    100016: Probe_Final:claw_whole
+    100018: Probe_Final:claw_whole 1
+    100020: Probe_Final:claw_whole 2
+    100022: Probe_Final:cockpit_hatch
+    100024: Probe_Final:controller_G
+    100026: Probe_Final:DOOR
+    100028: Probe_Final:Door
+    100030: Probe_Final:EYES
+    100032: Probe_Final:FOREARM
+    100034: Probe_Final:forearm
+    100036: Probe_Final:FOREARM 1
+    100038: Probe_Final:forearm 1
+    100040: Probe_Final:FOREARM 2
+    100042: Probe_Final:forearm 2
+    100044: Probe_Final:HAND
+    100046: Probe_Final:HAND1
+    100048: Probe_Final:HAND3
+    100050: Probe_Final:HAND_BEAM
+    100052: Probe_Final:HAND_BEAM 1
+    100054: Probe_Final:HAND_BEAM 2
+    100056: Probe_Final:hatch
+    100058: Probe_Final:hatch1
+    100060: Probe_Final:hatch2
+    100062: Probe_Final:hatch_door
+    100064: Probe_Final:hologram1
+    100066: Probe_Final:left_hand_controller
+    100068: Probe_Final:left_leg_1
+    100070: Probe_Final:left_leg_2
+    100072: Probe_Final:left_leg_3
+    100074: Probe_Final:left_leg_4
+    100076: Probe_Final:left_leg_5
+    100078: Probe_Final:left_leg_6
+    100080: Probe_Final:left_leg_7
+    100082: Probe_Final:left_leg_8
+    100084: Probe_Final:left_leg_9
+    100086: Probe_Final:LEG_back
+    100088: Probe_Final:LEG_left
+    100090: Probe_Final:LEG_right
+    100092: Probe_Final:misel_launcher
+    100094: Probe_Final:misel_launcher 1
+    100096: Probe_Final:misel_stand
+    100098: Probe_Final:misel_stand 1
+    100100: Probe_Final:misel_stand1
+    100102: Probe_Final:misel_stand1 1
+    100104: Probe_Final:misel_stand2
+    100106: Probe_Final:misel_stand2 1
+    100108: Probe_Final:misel_stand3
+    100110: Probe_Final:misel_stand3 1
+    100112: Probe_Final:MISILLE
+    100114: Probe_Final:pCube1
+    100116: Probe_Final:pCube11
+    100118: Probe_Final:pCube11 1
+    100120: Probe_Final:pCube11 2
+    100122: Probe_Final:pCube3
+    100124: Probe_Final:pCube3 1
+    100126: Probe_Final:pCube3 2
+    100128: Probe_Final:pCube32
+    100130: Probe_Final:pCube33
+    100132: Probe_Final:pCube34
+    100134: Probe_Final:pCube4
+    100136: Probe_Final:pCube4 1
+    100138: Probe_Final:pCube4 2
+    100140: Probe_Final:pCube41
+    100142: Probe_Final:pCube43
+    100144: Probe_Final:pCube44
+    100146: Probe_Final:pCube45
+    100148: Probe_Final:pCube46
+    100150: Probe_Final:pCube48
+    100152: Probe_Final:pCube48 1
+    100154: Probe_Final:pCube48 2
+    100156: Probe_Final:pCube48 3
+    100158: Probe_Final:pCube48 4
+    100160: Probe_Final:pCube48 5
+    100162: Probe_Final:pCube48 6
+    100164: Probe_Final:pCube48 7
+    100166: Probe_Final:pCube49
+    100168: Probe_Final:pCube49 1
+    100170: Probe_Final:pCube49 2
+    100172: Probe_Final:pCube49 3
+    100174: Probe_Final:pCube49 4
+    100176: Probe_Final:pCube49 5
+    100178: Probe_Final:pCube49 6
+    100180: Probe_Final:pCube49 7
+    100182: Probe_Final:pCube5
+    100184: Probe_Final:pCube5 1
+    100186: Probe_Final:pCube5 2
+    100188: Probe_Final:pCube50
+    100190: Probe_Final:pCube51
+    100192: Probe_Final:pCube52
+    100194: Probe_Final:pCube53
+    100196: Probe_Final:pCube6
+    100198: Probe_Final:pCube6 1
+    100200: Probe_Final:pCube7
+    100202: Probe_Final:pCube7 1
+    100204: Probe_Final:pCube8
+    100206: Probe_Final:pCube8 1
+    100208: Probe_Final:pCylinder1
+    100210: Probe_Final:pCylinder10
+    100212: Probe_Final:pCylinder10 1
+    100214: Probe_Final:pCylinder10 2
+    100216: Probe_Final:pCylinder12
+    100218: Probe_Final:pCylinder16
+    100220: Probe_Final:pCylinder17
+    100222: Probe_Final:pCylinder18
+    100224: Probe_Final:pCylinder19
+    100226: Probe_Final:pCylinder19 1
+    100228: Probe_Final:pCylinder20
+    100230: Probe_Final:pCylinder20 1
+    100232: Probe_Final:pCylinder23
+    100234: Probe_Final:pCylinder23 1
+    100236: Probe_Final:pCylinder24
+    100238: Probe_Final:pCylinder24 1
+    100240: Probe_Final:pCylinder28
+    100242: Probe_Final:pCylinder28 1
+    100244: Probe_Final:pCylinder28 2
+    100246: Probe_Final:pCylinder54
+    100248: Probe_Final:pCylinder58
+    100250: Probe_Final:pCylinder59
+    100252: Probe_Final:pCylinder61
+    100254: Probe_Final:polySurface11
+    100256: Probe_Final:polySurface11 1
+    100258: Probe_Final:polySurface9
+    100260: Probe_Final:pPipe2
+    100262: Probe_Final:pPipe2 1
+    100264: Probe_Final:Probe_Main
+    100266: Probe_Final:pSphere1
+    100268: Probe_Final:pSphere1 1
+    100270: Probe_Final:pSphere1 2
+    100272: Probe_Final:pSphere3
+    100274: Probe_Final:pSphere3 1
+    100276: Probe_Final:pSphere4
+    100278: Probe_Final:pSphere4 1
+    100280: Probe_Final:right_hand_controller
+    100282: Probe_Final:shoulder
+    100284: Probe_Final:shoulder1
+    100286: Probe_Final:spy_probe_mesh
+    100288: Probe_Final:thigh
+    100290: Probe_Final:thigh 1
+    100292: Probe_Final:thigh 2
+    100294: Probe_Final:thigh 3
+    100296: Probe_Final:thigh 4
+    100298: Probe_Final:thigh 5
+    100300: Probe_Final:thight_connector
+    100302: Probe_Final:thight_connector 1
+    100304: Probe_Final:thight_connector 2
+    100306: Probe_Final:turbo
+    100308: Probe_Final:UPPER_PART
+    100310: Probe_Final:visibility_ctrl
+    100312: Probe_Final:window_left
+    100314: Probe_Final:window_right
+    400000: //RootNode
+    400002: Probe_Final:BEAM
+    400004: Probe_Final:BELOW_PART
+    400006: Probe_Final:bicep1
+    400008: Probe_Final:bicep1 1
+    400010: Probe_Final:claw
+    400012: Probe_Final:claw 1
+    400014: Probe_Final:claw 2
+    400016: Probe_Final:claw_whole
+    400018: Probe_Final:claw_whole 1
+    400020: Probe_Final:claw_whole 2
+    400022: Probe_Final:cockpit_hatch
+    400024: Probe_Final:controller_G
+    400026: Probe_Final:DOOR
+    400028: Probe_Final:Door
+    400030: Probe_Final:EYES
+    400032: Probe_Final:FOREARM
+    400034: Probe_Final:forearm
+    400036: Probe_Final:FOREARM 1
+    400038: Probe_Final:forearm 1
+    400040: Probe_Final:FOREARM 2
+    400042: Probe_Final:forearm 2
+    400044: Probe_Final:HAND
+    400046: Probe_Final:HAND1
+    400048: Probe_Final:HAND3
+    400050: Probe_Final:HAND_BEAM
+    400052: Probe_Final:HAND_BEAM 1
+    400054: Probe_Final:HAND_BEAM 2
+    400056: Probe_Final:hatch
+    400058: Probe_Final:hatch1
+    400060: Probe_Final:hatch2
+    400062: Probe_Final:hatch_door
+    400064: Probe_Final:hologram1
+    400066: Probe_Final:left_hand_controller
+    400068: Probe_Final:left_leg_1
+    400070: Probe_Final:left_leg_2
+    400072: Probe_Final:left_leg_3
+    400074: Probe_Final:left_leg_4
+    400076: Probe_Final:left_leg_5
+    400078: Probe_Final:left_leg_6
+    400080: Probe_Final:left_leg_7
+    400082: Probe_Final:left_leg_8
+    400084: Probe_Final:left_leg_9
+    400086: Probe_Final:LEG_back
+    400088: Probe_Final:LEG_left
+    400090: Probe_Final:LEG_right
+    400092: Probe_Final:misel_launcher
+    400094: Probe_Final:misel_launcher 1
+    400096: Probe_Final:misel_stand
+    400098: Probe_Final:misel_stand 1
+    400100: Probe_Final:misel_stand1
+    400102: Probe_Final:misel_stand1 1
+    400104: Probe_Final:misel_stand2
+    400106: Probe_Final:misel_stand2 1
+    400108: Probe_Final:misel_stand3
+    400110: Probe_Final:misel_stand3 1
+    400112: Probe_Final:MISILLE
+    400114: Probe_Final:pCube1
+    400116: Probe_Final:pCube11
+    400118: Probe_Final:pCube11 1
+    400120: Probe_Final:pCube11 2
+    400122: Probe_Final:pCube3
+    400124: Probe_Final:pCube3 1
+    400126: Probe_Final:pCube3 2
+    400128: Probe_Final:pCube32
+    400130: Probe_Final:pCube33
+    400132: Probe_Final:pCube34
+    400134: Probe_Final:pCube4
+    400136: Probe_Final:pCube4 1
+    400138: Probe_Final:pCube4 2
+    400140: Probe_Final:pCube41
+    400142: Probe_Final:pCube43
+    400144: Probe_Final:pCube44
+    400146: Probe_Final:pCube45
+    400148: Probe_Final:pCube46
+    400150: Probe_Final:pCube48
+    400152: Probe_Final:pCube48 1
+    400154: Probe_Final:pCube48 2
+    400156: Probe_Final:pCube48 3
+    400158: Probe_Final:pCube48 4
+    400160: Probe_Final:pCube48 5
+    400162: Probe_Final:pCube48 6
+    400164: Probe_Final:pCube48 7
+    400166: Probe_Final:pCube49
+    400168: Probe_Final:pCube49 1
+    400170: Probe_Final:pCube49 2
+    400172: Probe_Final:pCube49 3
+    400174: Probe_Final:pCube49 4
+    400176: Probe_Final:pCube49 5
+    400178: Probe_Final:pCube49 6
+    400180: Probe_Final:pCube49 7
+    400182: Probe_Final:pCube5
+    400184: Probe_Final:pCube5 1
+    400186: Probe_Final:pCube5 2
+    400188: Probe_Final:pCube50
+    400190: Probe_Final:pCube51
+    400192: Probe_Final:pCube52
+    400194: Probe_Final:pCube53
+    400196: Probe_Final:pCube6
+    400198: Probe_Final:pCube6 1
+    400200: Probe_Final:pCube7
+    400202: Probe_Final:pCube7 1
+    400204: Probe_Final:pCube8
+    400206: Probe_Final:pCube8 1
+    400208: Probe_Final:pCylinder1
+    400210: Probe_Final:pCylinder10
+    400212: Probe_Final:pCylinder10 1
+    400214: Probe_Final:pCylinder10 2
+    400216: Probe_Final:pCylinder12
+    400218: Probe_Final:pCylinder16
+    400220: Probe_Final:pCylinder17
+    400222: Probe_Final:pCylinder18
+    400224: Probe_Final:pCylinder19
+    400226: Probe_Final:pCylinder19 1
+    400228: Probe_Final:pCylinder20
+    400230: Probe_Final:pCylinder20 1
+    400232: Probe_Final:pCylinder23
+    400234: Probe_Final:pCylinder23 1
+    400236: Probe_Final:pCylinder24
+    400238: Probe_Final:pCylinder24 1
+    400240: Probe_Final:pCylinder28
+    400242: Probe_Final:pCylinder28 1
+    400244: Probe_Final:pCylinder28 2
+    400246: Probe_Final:pCylinder54
+    400248: Probe_Final:pCylinder58
+    400250: Probe_Final:pCylinder59
+    400252: Probe_Final:pCylinder61
+    400254: Probe_Final:polySurface11
+    400256: Probe_Final:polySurface11 1
+    400258: Probe_Final:polySurface9
+    400260: Probe_Final:pPipe2
+    400262: Probe_Final:pPipe2 1
+    400264: Probe_Final:Probe_Main
+    400266: Probe_Final:pSphere1
+    400268: Probe_Final:pSphere1 1
+    400270: Probe_Final:pSphere1 2
+    400272: Probe_Final:pSphere3
+    400274: Probe_Final:pSphere3 1
+    400276: Probe_Final:pSphere4
+    400278: Probe_Final:pSphere4 1
+    400280: Probe_Final:right_hand_controller
+    400282: Probe_Final:shoulder
+    400284: Probe_Final:shoulder1
+    400286: Probe_Final:spy_probe_mesh
+    400288: Probe_Final:thigh
+    400290: Probe_Final:thigh 1
+    400292: Probe_Final:thigh 2
+    400294: Probe_Final:thigh 3
+    400296: Probe_Final:thigh 4
+    400298: Probe_Final:thigh 5
+    400300: Probe_Final:thight_connector
+    400302: Probe_Final:thight_connector 1
+    400304: Probe_Final:thight_connector 2
+    400306: Probe_Final:turbo
+    400308: Probe_Final:UPPER_PART
+    400310: Probe_Final:visibility_ctrl
+    400312: Probe_Final:window_left
+    400314: Probe_Final:window_right
+    2300000: Probe_Final:hologram1
+    2300002: Probe_Final:pCube1
+    2300004: Probe_Final:pCube11
+    2300006: Probe_Final:pCube11 1
+    2300008: Probe_Final:pCube11 2
+    2300010: Probe_Final:pCube3
+    2300012: Probe_Final:pCube3 1
+    2300014: Probe_Final:pCube3 2
+    2300016: Probe_Final:pCube32
+    2300018: Probe_Final:pCube33
+    2300020: Probe_Final:pCube34
+    2300022: Probe_Final:pCube4
+    2300024: Probe_Final:pCube4 1
+    2300026: Probe_Final:pCube4 2
+    2300028: Probe_Final:pCube41
+    2300030: Probe_Final:pCube43
+    2300032: Probe_Final:pCube44
+    2300034: Probe_Final:pCube45
+    2300036: Probe_Final:pCube46
+    2300038: Probe_Final:pCube48
+    2300040: Probe_Final:pCube48 1
+    2300042: Probe_Final:pCube48 2
+    2300044: Probe_Final:pCube48 3
+    2300046: Probe_Final:pCube48 4
+    2300048: Probe_Final:pCube48 5
+    2300050: Probe_Final:pCube48 6
+    2300052: Probe_Final:pCube48 7
+    2300054: Probe_Final:pCube49
+    2300056: Probe_Final:pCube49 1
+    2300058: Probe_Final:pCube49 2
+    2300060: Probe_Final:pCube49 3
+    2300062: Probe_Final:pCube49 4
+    2300064: Probe_Final:pCube49 5
+    2300066: Probe_Final:pCube49 6
+    2300068: Probe_Final:pCube49 7
+    2300070: Probe_Final:pCube5
+    2300072: Probe_Final:pCube5 1
+    2300074: Probe_Final:pCube5 2
+    2300076: Probe_Final:pCube50
+    2300078: Probe_Final:pCube51
+    2300080: Probe_Final:pCube52
+    2300082: Probe_Final:pCube53
+    2300084: Probe_Final:pCube6
+    2300086: Probe_Final:pCube6 1
+    2300088: Probe_Final:pCube7
+    2300090: Probe_Final:pCube7 1
+    2300092: Probe_Final:pCube8
+    2300094: Probe_Final:pCube8 1
+    2300096: Probe_Final:pCylinder1
+    2300098: Probe_Final:pCylinder10
+    2300100: Probe_Final:pCylinder10 1
+    2300102: Probe_Final:pCylinder10 2
+    2300104: Probe_Final:pCylinder12
+    2300106: Probe_Final:pCylinder16
+    2300108: Probe_Final:pCylinder17
+    2300110: Probe_Final:pCylinder18
+    2300112: Probe_Final:pCylinder19
+    2300114: Probe_Final:pCylinder19 1
+    2300116: Probe_Final:pCylinder20
+    2300118: Probe_Final:pCylinder20 1
+    2300120: Probe_Final:pCylinder23
+    2300122: Probe_Final:pCylinder23 1
+    2300124: Probe_Final:pCylinder24
+    2300126: Probe_Final:pCylinder24 1
+    2300128: Probe_Final:pCylinder28
+    2300130: Probe_Final:pCylinder28 1
+    2300132: Probe_Final:pCylinder28 2
+    2300134: Probe_Final:pCylinder54
+    2300136: Probe_Final:pCylinder58
+    2300138: Probe_Final:pCylinder59
+    2300140: Probe_Final:pCylinder61
+    2300142: Probe_Final:polySurface11
+    2300144: Probe_Final:polySurface11 1
+    2300146: Probe_Final:polySurface9
+    2300148: Probe_Final:pPipe2
+    2300150: Probe_Final:pPipe2 1
+    2300152: Probe_Final:pSphere1
+    2300154: Probe_Final:pSphere1 1
+    2300156: Probe_Final:pSphere1 2
+    2300158: Probe_Final:pSphere3
+    2300160: Probe_Final:pSphere3 1
+    2300162: Probe_Final:pSphere4
+    2300164: Probe_Final:pSphere4 1
+    2300166: Probe_Final:shoulder
+    2300168: Probe_Final:shoulder1
+    2300170: Probe_Final:thigh 3
+    2300172: Probe_Final:thigh 4
+    2300174: Probe_Final:thigh 5
+    2300176: Probe_Final:thight_connector
+    2300178: Probe_Final:thight_connector 1
+    2300180: Probe_Final:thight_connector 2
+    2300182: Probe_Final:turbo
+    3300000: Probe_Final:hologram1
+    3300002: Probe_Final:pCube1
+    3300004: Probe_Final:pCube11
+    3300006: Probe_Final:pCube11 1
+    3300008: Probe_Final:pCube11 2
+    3300010: Probe_Final:pCube3
+    3300012: Probe_Final:pCube3 1
+    3300014: Probe_Final:pCube3 2
+    3300016: Probe_Final:pCube32
+    3300018: Probe_Final:pCube33
+    3300020: Probe_Final:pCube34
+    3300022: Probe_Final:pCube4
+    3300024: Probe_Final:pCube4 1
+    3300026: Probe_Final:pCube4 2
+    3300028: Probe_Final:pCube41
+    3300030: Probe_Final:pCube43
+    3300032: Probe_Final:pCube44
+    3300034: Probe_Final:pCube45
+    3300036: Probe_Final:pCube46
+    3300038: Probe_Final:pCube48
+    3300040: Probe_Final:pCube48 1
+    3300042: Probe_Final:pCube48 2
+    3300044: Probe_Final:pCube48 3
+    3300046: Probe_Final:pCube48 4
+    3300048: Probe_Final:pCube48 5
+    3300050: Probe_Final:pCube48 6
+    3300052: Probe_Final:pCube48 7
+    3300054: Probe_Final:pCube49
+    3300056: Probe_Final:pCube49 1
+    3300058: Probe_Final:pCube49 2
+    3300060: Probe_Final:pCube49 3
+    3300062: Probe_Final:pCube49 4
+    3300064: Probe_Final:pCube49 5
+    3300066: Probe_Final:pCube49 6
+    3300068: Probe_Final:pCube49 7
+    3300070: Probe_Final:pCube5
+    3300072: Probe_Final:pCube5 1
+    3300074: Probe_Final:pCube5 2
+    3300076: Probe_Final:pCube50
+    3300078: Probe_Final:pCube51
+    3300080: Probe_Final:pCube52
+    3300082: Probe_Final:pCube53
+    3300084: Probe_Final:pCube6
+    3300086: Probe_Final:pCube6 1
+    3300088: Probe_Final:pCube7
+    3300090: Probe_Final:pCube7 1
+    3300092: Probe_Final:pCube8
+    3300094: Probe_Final:pCube8 1
+    3300096: Probe_Final:pCylinder1
+    3300098: Probe_Final:pCylinder10
+    3300100: Probe_Final:pCylinder10 1
+    3300102: Probe_Final:pCylinder10 2
+    3300104: Probe_Final:pCylinder12
+    3300106: Probe_Final:pCylinder16
+    3300108: Probe_Final:pCylinder17
+    3300110: Probe_Final:pCylinder18
+    3300112: Probe_Final:pCylinder19
+    3300114: Probe_Final:pCylinder19 1
+    3300116: Probe_Final:pCylinder20
+    3300118: Probe_Final:pCylinder20 1
+    3300120: Probe_Final:pCylinder23
+    3300122: Probe_Final:pCylinder23 1
+    3300124: Probe_Final:pCylinder24
+    3300126: Probe_Final:pCylinder24 1
+    3300128: Probe_Final:pCylinder28
+    3300130: Probe_Final:pCylinder28 1
+    3300132: Probe_Final:pCylinder28 2
+    3300134: Probe_Final:pCylinder54
+    3300136: Probe_Final:pCylinder58
+    3300138: Probe_Final:pCylinder59
+    3300140: Probe_Final:pCylinder61
+    3300142: Probe_Final:polySurface11
+    3300144: Probe_Final:polySurface11 1
+    3300146: Probe_Final:polySurface9
+    3300148: Probe_Final:pPipe2
+    3300150: Probe_Final:pPipe2 1
+    3300152: Probe_Final:pSphere1
+    3300154: Probe_Final:pSphere1 1
+    3300156: Probe_Final:pSphere1 2
+    3300158: Probe_Final:pSphere3
+    3300160: Probe_Final:pSphere3 1
+    3300162: Probe_Final:pSphere4
+    3300164: Probe_Final:pSphere4 1
+    3300166: Probe_Final:shoulder
+    3300168: Probe_Final:shoulder1
+    3300170: Probe_Final:thigh 3
+    3300172: Probe_Final:thigh 4
+    3300174: Probe_Final:thigh 5
+    3300176: Probe_Final:thight_connector
+    3300178: Probe_Final:thight_connector 1
+    3300180: Probe_Final:thight_connector 2
+    3300182: Probe_Final:turbo
+    4300000: Probe_Final:hologram1
+    4300002: Probe_Final:polySurface11
+    4300004: Probe_Final:pSphere3
+    4300006: Probe_Final:pSphere4
+    4300008: Probe_Final:pCube49
+    4300010: Probe_Final:pCube48
+    4300012: Probe_Final:pCube49
+    4300014: Probe_Final:pCube48
+    4300016: Probe_Final:pCube49
+    4300018: Probe_Final:pCube48
+    4300020: Probe_Final:pCube49
+    4300022: Probe_Final:pCube48
+    4300024: Probe_Final:pPipe2
+    4300026: Probe_Final:pCube7
+    4300028: Probe_Final:pCube8
+    4300030: Probe_Final:pCube6
+    4300032: Probe_Final:pCylinder19
+    4300034: Probe_Final:pCube51
+    4300036: Probe_Final:pCube50
+    4300038: Probe_Final:pCylinder24
+    4300040: Probe_Final:pCylinder20
+    4300042: Probe_Final:pCylinder23
+    4300044: Probe_Final:shoulder
+    4300046: Probe_Final:shoulder1
+    4300048: Probe_Final:pCube33
+    4300050: Probe_Final:pCube32
+    4300052: Probe_Final:pCube34
+    4300054: Probe_Final:polySurface9
+    4300056: Probe_Final:turbo
+    4300058: Probe_Final:pCylinder16
+    4300060: Probe_Final:pCylinder17
+    4300062: Probe_Final:pCylinder18
+    4300064: Probe_Final:pCylinder12
+    4300066: Probe_Final:pCube45
+    4300068: Probe_Final:pCube46
+    4300070: Probe_Final:pCylinder1
+    4300072: Probe_Final:pCube1
+    4300074: Probe_Final:pCylinder54
+    4300076: Probe_Final:pCube43
+    4300078: Probe_Final:pCylinder58
+    4300080: Probe_Final:pCylinder59
+    4300082: Probe_Final:pCube41
+    4300084: Probe_Final:pCylinder61
+    4300086: Probe_Final:pCube44
+    4300088: Probe_Final:polySurface11
+    4300090: Probe_Final:pSphere3
+    4300092: Probe_Final:pSphere4
+    4300094: Probe_Final:pCube49
+    4300096: Probe_Final:pCube48
+    4300098: Probe_Final:pCube49
+    4300100: Probe_Final:pCube48
+    4300102: Probe_Final:pCube49
+    4300104: Probe_Final:pCube48
+    4300106: Probe_Final:pCube49
+    4300108: Probe_Final:pCube48
+    4300110: Probe_Final:pPipe2
+    4300112: Probe_Final:pCube7
+    4300114: Probe_Final:pCube8
+    4300116: Probe_Final:pCube6
+    4300118: Probe_Final:pCylinder19
+    4300120: Probe_Final:pCube53
+    4300122: Probe_Final:pCube52
+    4300124: Probe_Final:pCylinder24
+    4300126: Probe_Final:pCylinder20
+    4300128: Probe_Final:pCylinder23
+    4300130: Probe_Final:thight_connector
+    4300132: Probe_Final:pSphere1
+    4300134: Probe_Final:thigh
+    4300136: Probe_Final:pCube3
+    4300138: Probe_Final:pCylinder28
+    4300140: Probe_Final:pCube11
+    4300142: Probe_Final:pCube4
+    4300144: Probe_Final:pCube5
+    4300146: Probe_Final:pCylinder10
+    4300148: Probe_Final:thight_connector
+    4300150: Probe_Final:pSphere1
+    4300152: Probe_Final:thigh
+    4300154: Probe_Final:pCube3
+    4300156: Probe_Final:pCylinder28
+    4300158: Probe_Final:pCube11
+    4300160: Probe_Final:pCube4
+    4300162: Probe_Final:pCube5
+    4300164: Probe_Final:pCylinder10
+    4300166: Probe_Final:thight_connector
+    4300168: Probe_Final:pSphere1
+    4300170: Probe_Final:thigh
+    4300172: Probe_Final:pCube3
+    4300174: Probe_Final:pCylinder28
+    4300176: Probe_Final:pCube11
+    4300178: Probe_Final:pCube4
+    4300180: Probe_Final:pCube5
+    4300182: Probe_Final:pCylinder10
+    7400000: stand
+    7400002: run
+    7400004: charge
+    7400006: attack
+    7400008: block
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: stand
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Probe_Final:Probe_Main
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:controller_G
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:visibility_ctrl
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder16
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder17
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder18
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:pCylinder12
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube32
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube33
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube34
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:polySurface9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:turbo
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:polySurface11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder20
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder23
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube48
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube49
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube48
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube49
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube48
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube49
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube48
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube49
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:pPipe2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:right_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube50
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube51
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder24
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:forearm
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:MISILLE
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:polySurface11
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere3
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere4
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder20 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder23 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube48
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube49
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube48
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube49
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube48
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube49
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube48
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube49
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:pPipe2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube6 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube7 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube8 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:left_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube52
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube53
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder24 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:hologram1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCylinder10
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCylinder28
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:thigh
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:claw_whole
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:pSphere1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:thight_connector
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube4 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube5 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCylinder10 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube11 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCylinder28 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:thigh 4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:claw_whole
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:pSphere1
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:thight_connector
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube4 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube5 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCylinder10 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube3 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube11 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCylinder28 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:thigh 5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:claw_whole
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:pSphere1
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:thight_connector
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCube1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCylinder54
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCube43
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCylinder58
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:pCylinder59
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:pCube41
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCube44
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCylinder61
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube45
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube46
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:pCylinder1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run
+      takeName: Take 001
+      firstFrame: 26
+      lastFrame: 42
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Probe_Final:Probe_Main
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:controller_G
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:visibility_ctrl
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder16
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder17
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder18
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:pCylinder12
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube32
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube33
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube34
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:polySurface9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:turbo
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:polySurface11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder20
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder23
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube48
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube49
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube48
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube49
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube48
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube49
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube48
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube49
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:pPipe2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:right_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube50
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube51
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder24
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:forearm
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:MISILLE
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:polySurface11
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere3
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere4
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder20 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder23 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube48
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube49
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube48
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube49
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube48
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube49
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube48
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube49
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:pPipe2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube6 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube7 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube8 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:left_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube52
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube53
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder24 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:hologram1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCylinder10
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCylinder28
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:thigh
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:claw_whole
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:pSphere1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:thight_connector
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube4 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube5 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCylinder10 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube11 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCylinder28 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:thigh 4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:claw_whole
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:pSphere1
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:thight_connector
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube4 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube5 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCylinder10 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube3 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube11 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCylinder28 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:thigh 5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:claw_whole
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:pSphere1
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:thight_connector
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCube1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCylinder54
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCube43
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCylinder58
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:pCylinder59
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:pCube41
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCube44
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCylinder61
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube45
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube46
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:pCylinder1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: charge
+      takeName: Take 001
+      firstFrame: 43
+      lastFrame: 63
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Probe_Final:Probe_Main
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:controller_G
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:visibility_ctrl
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder16
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder17
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder18
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:pCylinder12
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube32
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube33
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube34
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:polySurface9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:turbo
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:polySurface11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder20
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder23
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube48
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube49
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube48
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube49
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube48
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube49
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube48
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube49
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:pPipe2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:right_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube50
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube51
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder24
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:forearm
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:MISILLE
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:polySurface11
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere3
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere4
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder20 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder23 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube48
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube49
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube48
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube49
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube48
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube49
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube48
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube49
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:pPipe2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube6 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube7 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube8 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:left_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube52
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube53
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder24 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:hologram1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCylinder10
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCylinder28
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:thigh
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:claw_whole
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:pSphere1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:thight_connector
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube4 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube5 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCylinder10 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube11 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCylinder28 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:thigh 4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:claw_whole
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:pSphere1
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:thight_connector
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube4 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube5 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCylinder10 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube3 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube11 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCylinder28 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:thigh 5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:claw_whole
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:pSphere1
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:thight_connector
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCube1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCylinder54
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCube43
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCylinder58
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:pCylinder59
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:pCube41
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCube44
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCylinder61
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube45
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube46
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:pCylinder1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Probe_Final:Probe_Main
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:controller_G
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:visibility_ctrl
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder16
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder17
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder18
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:pCylinder12
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube32
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube33
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube34
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:polySurface9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:turbo
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:polySurface11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder20
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder23
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube48
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube49
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube48
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube49
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube48
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube49
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube48
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube49
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:pPipe2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:right_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube50
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube51
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder24
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:forearm
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:MISILLE
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:polySurface11
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere3
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere4
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder20 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder23 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube48
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube49
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube48
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube49
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube48
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube49
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube48
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube49
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:pPipe2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube6 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube7 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube8 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:left_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube52
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube53
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder24 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:hologram1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCylinder10
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCylinder28
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:thigh
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:claw_whole
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:pSphere1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:thight_connector
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube4 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube5 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCylinder10 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube11 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCylinder28 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:thigh 4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:claw_whole
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:pSphere1
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:thight_connector
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube4 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube5 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCylinder10 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube3 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube11 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCylinder28 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:thigh 5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:claw_whole
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:pSphere1
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:thight_connector
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCube1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCylinder54
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCube43
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCylinder58
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:pCylinder59
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:pCube41
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCube44
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCylinder61
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube45
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube46
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:pCylinder1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: block
+      takeName: Take 001
+      firstFrame: 76
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Probe_Final:Probe_Main
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:controller_G
+        weight: 1
+      - path: Probe_Final:Probe_Main/Probe_Final:visibility_ctrl
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder16
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder17
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:hatch_door/Probe_Final:pCylinder18
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:hatch/Probe_Final:pCylinder12
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube32
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube33
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:pCube34
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:polySurface9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:shoulder1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:BELOW_PART/Probe_Final:turbo
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:polySurface11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:bicep1/Probe_Final:pSphere4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder20
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:forearm/Probe_Final:pCylinder23
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube48
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand/Probe_Final:pCube49
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube48
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand1/Probe_Final:pCube49
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube48
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand2/Probe_Final:pCube49
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube48
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:misel_stand3/Probe_Final:pCube49
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:misel_launcher/Probe_Final:pPipe2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCube8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:right_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube50
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder19/Probe_Final:window_right/Probe_Final:pCube51
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND/Probe_Final:FOREARM/Probe_Final:HAND_BEAM/Probe_Final:pCylinder24
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:forearm
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:BEAM
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND1/Probe_Final:FOREARM 1/Probe_Final:HAND_BEAM
+          1/Probe_Final:MISILLE
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:polySurface11
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere3
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:bicep1 1/Probe_Final:pSphere4
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder20 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:forearm
+          2/Probe_Final:pCylinder23 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube48
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand 1/Probe_Final:pCube49
+          4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube48
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand1 1/Probe_Final:pCube49
+          5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube48
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand2 1/Probe_Final:pCube49
+          6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube48
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:misel_stand3 1/Probe_Final:pCube49
+          7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:misel_launcher 1/Probe_Final:pPipe2 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube6 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube7 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCube8 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:left_hand_controller
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube52
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder19 1/Probe_Final:window_left/Probe_Final:pCube53
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:HAND3/Probe_Final:FOREARM 2/Probe_Final:HAND_BEAM
+          2/Probe_Final:pCylinder24 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:hologram1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCube5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:left_leg_3/Probe_Final:claw/Probe_Final:pCylinder10
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCube11
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:pCylinder28
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:left_leg_4/Probe_Final:thigh/Probe_Final:thigh
+          3
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:claw_whole
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:pSphere1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_5/Probe_Final:LEG_right/Probe_Final:thight_connector
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube4 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCube5 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:left_leg_1/Probe_Final:claw
+          1/Probe_Final:pCylinder10 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube3 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCube11 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:pCylinder28 1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:left_leg_2/Probe_Final:thigh
+          1/Probe_Final:thigh 4
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:claw_whole
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:pSphere1
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_6/Probe_Final:LEG_left/Probe_Final:thight_connector
+          1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube4 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCube5 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:left_leg_7/Probe_Final:claw
+          2/Probe_Final:pCylinder10 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube3 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCube11 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:pCylinder28 2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:left_leg_8/Probe_Final:thigh
+          2/Probe_Final:thigh 5
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:claw_whole
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:pSphere1
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:left_leg_9/Probe_Final:LEG_back/Probe_Final:thight_connector
+          2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCube1
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:cockpit_hatch/Probe_Final:pCylinder54
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCube43
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:hatch1/Probe_Final:pCylinder58
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:hatch2/Probe_Final:pCylinder59
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:Door/Probe_Final:pCube41
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCube44
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:DOOR/Probe_Final:pCylinder61
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube45
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:EYES/Probe_Final:pCube46
+        weight: 1
+      - path: Probe_Final:spy_probe_mesh/Probe_Final:UPPER_PART/Probe_Final:pCylinder1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

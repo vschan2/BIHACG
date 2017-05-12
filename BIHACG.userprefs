@@ -2,12 +2,14 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Logic\ARScript.cs">
     <Files>
-      <File FileName="Assets\Scripts\Logic\ARScript.cs" Line="279" Column="17" />
-      <File FileName="Assets\Scripts\Logic\ProjectileCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic\ARScript.cs" Line="91" Column="72" />
       <File FileName="Assets\Scripts\Logic\HealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic\ProjectileCollide.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\Hologram Pyramid\Scripts\Earth.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Scene\Logo.cs" Line="1" Column="1" />
       <File FileName="Assets\Scripts\UI\CameraFacingBillboard.cs" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\Logic\CharacterManager.cs" Line="1" Column="1" />
-      <File FileName="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Logic\GameManager.cs" Line="57" Column="36" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

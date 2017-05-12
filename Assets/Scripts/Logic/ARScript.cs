@@ -88,13 +88,14 @@ public class ARScript : MonoBehaviour {
 			//Debug.Log (Vector3.Distance (transform.position, Adudu.position));
 
 			// The following statement is to assign the Enemy member variable (character object) to the second character object.
-			if(CameraManager.GetComponent<CharacterManager> ().numOfCharacters > 1) {
+			if(CameraManager.GetComponent<GameManager> ().numOfActivities > 1) {
+				GameManager cm = CameraManager.GetComponent<GameManager> ();
 
 				//Manager ID, need to update if we update the number of ID
-				for(int i = 0; i < 2; i++) {
+				for(int i = 0; i < cm.isReady.Length; i++) {
 
-					if(CameraManager.GetComponent<CharacterManager> ().isReady [i] == true && i != managerID) {
-						Enemy = CameraManager.GetComponent<CharacterManager> ().characters [i].transform.GetChild (0).transform;
+					if(cm.isReady [i] == true && i != managerID) {
+						Enemy = cm.characters [i].transform.GetChild (0).transform;
 					}
 				}
 				
@@ -135,41 +136,6 @@ public class ARScript : MonoBehaviour {
 							//GameObject sound = GameObject.Find ("AudioSource");
 							//string a = gameObject.name;
 
-							/*
-							switch (a) {
-								case ("Tanah"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().TanahFire);
-									break;
-								case ("Petir"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().PetirFire);
-									break;
-								case ("Adudu"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().AduduFire);
-									break;
-								case ("Angin"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().AnginFire);
-									break;
-								case ("Probe"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().ProbeFire);
-									break;
-								case ("Gempa"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().GempaFire);
-									break;
-								case ("Taufan"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().TaufanFire);
-									break;
-								case ("Ejojo"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().EjojoFire);
-									break;
-								case ("Fang"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().FangFire);
-									break;
-								case ("Halilintar"):
-									sound.GetComponent<AudioSource> ().PlayOneShot (sound.GetComponent<AudioHolder> ().HalilintarFire);
-									break;
-							}
-							*/
-
 							attackDelay = 3;
 							animDelay = 1;
 
@@ -205,9 +171,12 @@ public class ARScript : MonoBehaviour {
 					//Debug.Log (this.name + " standing 1");
 
 					//transform.RotateAround(transform.parent.position, transform.up, 5);
+
+					ResetPlayerHealth ();
 				}
 
-				//transform.rotation = oriRotate;
+				transform.rotation = transform.parent.GetComponent<Transform>().rotation;
+				Healthbar.SetActive (false);
 			}
 
 		} else { 
@@ -239,7 +208,10 @@ public class ARScript : MonoBehaviour {
 
 				//transform.localPosition = oriPosition;
 				onceTrigger = false;
+				//transform.rotation = oriRotate;
 				//transform.parent = oriParent;
+
+				ResetPlayerHealth ();
 			}
 
 			Healthbar.SetActive (false);
@@ -270,20 +242,39 @@ public class ARScript : MonoBehaviour {
 	}
 
 	public void ReducePlayerHealth (float damage) {
-		UnityEngine.UI.Image healthbar;
-
 		playerHealth -= damage;
+
+		if (playerHealth <= 0) {
+			playerHealth = 0;
+
+			//Debug.Log (Enemy.name + " win!");
+			//Debug.Log (this.name + " lose!");
+
+			CameraManager.GetComponent<GameManager> ().setIndexCharactersWin (Enemy.GetComponent<ARScript> ().managerID);
+			CameraManager.GetComponent<GameManager> ().GameOver ();
+		}
+			
+		FillHealthBar (playerHealth);
 
 		// Play the character hurt's sound.
 		audio.clip = SfxHurt;
 		audio.Play ();
+	}
+
+	public void ResetPlayerHealth () {
+		playerHealth = maxPlayerHealth;
+		FillHealthBar (playerHealth);
+	}
+
+	void FillHealthBar (float ph) {
+		UnityEngine.UI.Image healthbar;
 
 		healthbar = Healthbar.GetComponent<Transform> ().FindChild ("HealthBar_FrontBack").
-					FindChild("HealthBar_Empty").FindChild("HealthBar_Fill").GetComponent<UnityEngine.UI.Image> ();
-		healthbar.fillAmount = (float)playerHealth / (float)maxPlayerHealth;
+			FindChild("HealthBar_Empty").FindChild("HealthBar_Fill").GetComponent<UnityEngine.UI.Image> ();
+		healthbar.fillAmount = (float)ph / (float)maxPlayerHealth;
 
 		healthbar = Healthbar.GetComponent<Transform> ().FindChild ("HealthBar_LeftRight").
 			FindChild("HealthBar_Empty").FindChild("HealthBar_Fill").GetComponent<UnityEngine.UI.Image> ();
-		healthbar.fillAmount = (float)playerHealth / (float)maxPlayerHealth;
+		healthbar.fillAmount = (float)ph / (float)maxPlayerHealth;
 	}
 }

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d3c1921e9da098a4291ba851cce4d0ca
+timeCreated: 1493870086
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: The Kids Mraker
+  fontNames:
+  - The Kids Mraker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

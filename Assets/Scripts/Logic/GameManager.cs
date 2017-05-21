@@ -82,7 +82,9 @@ public class GameManager : MonoBehaviour {
 
 		for (int i = 0; i < canvas.Length; i++) {
 			string winnerName = characters [indexCharactersWin].GetComponentInChildren<ARScript> ().name;
-			canvas [i].GetComponentInChildren<Text> ().text = winnerName + " Win!!!";
+
+			canvas[i].transform.FindChild("Panel").FindChild("WinnerText").GetComponent<Text>().text = winnerName + " Win!!!";
+			//canvas [i].GetComponentInChildren<Text> ().text = winnerName + " Win!!!";
 		}
 
 		UICanvas.SetActive (true);
